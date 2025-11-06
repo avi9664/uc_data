@@ -1,0 +1,834 @@
+<SEC-DOCUMENT>0000897069-17-000004.txt : 20170104
+<SEC-HEADER>0000897069-17-000004.hdr.sgml : 20170104
+<ACCEPTANCE-DATETIME>20170104144249
+ACCESSION NUMBER:		0000897069-17-000004
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20170104
+DATE AS OF CHANGE:		20170104
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Owl Rock Capital Corp
+		CENTRAL INDEX KEY:			0001655888
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-89539
+		FILM NUMBER:		17504805
+
+	BUSINESS ADDRESS:	
+		STREET 1:		245 PARK AVENUE
+		STREET 2:		41ST FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10167
+		BUSINESS PHONE:		(212) 419-3000
+
+	MAIL ADDRESS:	
+		STREET 1:		245 PARK AVENUE
+		STREET 2:		41ST FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10167
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			REGENTS OF THE UNIVERSITY OF CALIFORNIA
+		CENTRAL INDEX KEY:			0000315054
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1111 BROADWAY
+		STREET 2:		21ST FLOOR
+		CITY:			OAKLAND
+		STATE:			CA
+		ZIP:			94607-4026
+		BUSINESS PHONE:		510-987-9600
+
+	MAIL ADDRESS:	
+		STREET 1:		1111 BROADWAY
+		STREET 2:		21ST FLOOR
+		CITY:			OAKLAND
+		STATE:			CA
+		ZIP:			94607-4026
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	REGENTS OF THE UNIVERSITY OF CA
+		DATE OF NAME CHANGE:	19600201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>cg834.htm
+<TEXT>
+<html>
+<head>
+<title></title>
+<!--Licensed to: foley2
+    Document created using EDGARfilings PROfile 4.1.0.0
+    Copyright 1995 - 2017 Summit Financial Printing, LLC.  All rights reserved.-->
+</head>
+<body style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif" bgcolor="#ffffff" text="#000000">
+<div>
+<div id="DSPFPageHeader">
+<div style="LINE-HEIGHT: 18.25pt"><br style="LINE-HEIGHT: 18.25pt">
+</div>
+</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt">UNITED STATES</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt">SECURITIES AND EXCHANGE COMMISSION</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt">Washington, D.C.&#160; 20549</div>
+
+<div style="LINE-HEIGHT: 12.55pt"><br style="LINE-HEIGHT: 12.55pt">
+</div>
+
+<div style="FONT-SIZE: 14.5pt; FONT-FAMILY: 'Times New Roman', serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; LINE-HEIGHT: 16.55pt">SCHEDULE 13G</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt">Under the Securities Exchange Act of 1934</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt"><u>Owl Rock Capital Corporation</u></div>
+
+<div style="FONT-SIZE: 11.5pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: center; LINE-HEIGHT: 13.1pt">(Name of Issuer)</div>
+
+<div style="LINE-HEIGHT: 13.1pt"><br style="LINE-HEIGHT: 13.1pt">
+</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt"><u>Common Stock, par value $0.01 per share</u></div>
+
+<div style="FONT-SIZE: 11.5pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: center; LINE-HEIGHT: 13.1pt">(Title of Class of Securities)</div>
+
+<div style="LINE-HEIGHT: 13.1pt"><br style="LINE-HEIGHT: 13.1pt">
+</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt"><u>None</u></div>
+
+<div style="FONT-SIZE: 11.5pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: center; LINE-HEIGHT: 13.1pt">(CUSIP Number)</div>
+
+<div style="LINE-HEIGHT: 13.1pt"><br style="LINE-HEIGHT: 13.1pt">
+</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt"><u>December 27, 2016</u></div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt">(Date of Event Which Requires Filing of this Statement)</div>
+
+<div style="LINE-HEIGHT: 12.55pt"><br style="LINE-HEIGHT: 12.55pt">
+</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: justify; LINE-HEIGHT: 13.7pt">Check the appropriate box to designate the rule pursuant to which this Schedule is filed:</div>
+
+<div style="LINE-HEIGHT: 13.7pt">&#160;</div>
+
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 13.7pt; TEXT-INDENT: 36pt"><font style="FONT-SIZE: 12pt; FONT-FAMILY: 'Wingdings 2', serif">T</font><font id="TRGRRTFtoHTMLTab" style="FONT-SIZE: 5.14pt">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font><font style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif">Rule 13d-1(b)</font></div>
+
+<div style="LINE-HEIGHT: 13.7pt">&#160;</div>
+
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 13.7pt; TEXT-INDENT: 36pt"><font style="FONT-SIZE: 12pt; FONT-FAMILY: 'Wingdings 2', serif">&#163;</font><font id="TRGRRTFtoHTMLTab" style="FONT-SIZE: 5.14pt">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font><font style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif">Rule 13d-1(c)</font></div>
+
+<div style="LINE-HEIGHT: 13.7pt">&#160;</div>
+
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 13.7pt; TEXT-INDENT: 36pt"><font style="FONT-SIZE: 12pt; FONT-FAMILY: 'Wingdings 2', serif">&#163;</font><font id="TRGRRTFtoHTMLTab" style="FONT-SIZE: 5.14pt">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font><font style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif">Rule 13d-1(d)</font></div>
+
+<div style="LINE-HEIGHT: 13.7pt">&#160;</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: justify; LINE-HEIGHT: 13.7pt">*&#160; The remainder of this cover page shall be filled out for a reporting person&#8217;s initial filing on this form with respect to the subject class of securities, and for any subsequent amendment containing information which would alter the disclosures provided in a prior cover page.</div>
+
+<div style="LINE-HEIGHT: 13.7pt">&#160;</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: justify; LINE-HEIGHT: 13.7pt">The information required in the remainder of this cover page shall not be deemed to be &#8220;filed&#8221; for the purpose of Section 18 of the Securities Exchange Act of 1934 (&#8220;Act&#8221;) or otherwise subject to the liabilities of that section of the Act but shall be subject to all other provisions of the Act (however, see the Notes).</div>
+
+<div style="LINE-HEIGHT: 13.7pt">&#160;</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageFooter">
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: justify; LINE-HEIGHT: 13.7pt"></div>
+
+<div style="LINE-HEIGHT: 9.1pt"><br style="LINE-HEIGHT: 9.1pt">
+</div>
+</div>
+
+<div id="DSPFPageNumberArea" style="TEXT-ALIGN: center"><font id="DSPFPageNumber" style="FONT-SIZE: 8pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: normal; FONT-STYLE: normal"></font>&#160;</div>
+
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+
+<div id="DSPFPageHeader">
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+</div>
+</div>
+
+<table id="z1eff4c0a4d3246cca8779f2d46f5e305" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0">
+<tr>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; WIDTH: 7.02%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 16pt; FONT-FAMILY: Arial, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: justify; LINE-HEIGHT: 18.25pt; TEXT-INDENT: 7.5pt">1</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; WIDTH: 92.98%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid" colspan="5">
+<div style="FONT-SIZE: 8.5pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; LINE-HEIGHT: 9.7pt">NAME OF REPORTING PERSONS</div>
+
+<div style="LINE-HEIGHT: 13.7pt">&#160;</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">The Regents of the University of California</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; WIDTH: 7.02%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 16pt; FONT-FAMILY: Arial, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: justify; LINE-HEIGHT: 18.25pt; TEXT-INDENT: 7.5pt">2</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; WIDTH: 76.95%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid" colspan="3">
+<div style="FONT-SIZE: 8.5pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; LINE-HEIGHT: 9.7pt">CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP (SEE INSTRUCTIONS)</div>
+
+<div style="LINE-HEIGHT: 13.7pt">&#160;</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">Not Applicable</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; WIDTH: 16.02%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid" colspan="2">
+<div style="FONT-SIZE: 8.5pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; MARGIN-LEFT: 18pt; LINE-HEIGHT: 9.7pt">(a) <font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">&#9744;</font><font style="FONT-SIZE: 8.5pt; FONT-FAMILY: 'Times New Roman', serif"><br>
+</font>(b) <font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">&#9744;</font></div>
+
+<div style="LINE-HEIGHT: 13.7pt">&#160;</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; WIDTH: 7.02%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 16pt; FONT-FAMILY: Arial, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: justify; LINE-HEIGHT: 18.25pt; TEXT-INDENT: 7.5pt">3</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; WIDTH: 92.98%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid" colspan="5">
+<div style="FONT-SIZE: 8.5pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; LINE-HEIGHT: 9.7pt">SEC USE ONLY</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; WIDTH: 7.02%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 16pt; FONT-FAMILY: Arial, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: justify; LINE-HEIGHT: 18.25pt; TEXT-INDENT: 7.5pt">4</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; WIDTH: 92.98%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid" colspan="5">
+<div style="FONT-SIZE: 8.5pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; LINE-HEIGHT: 9.7pt">CITIZENSHIP OR PLACE OF ORGANIZATION</div>
+
+<div style="LINE-HEIGHT: 13.7pt">&#160;</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">California</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; WIDTH: 19.88%; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid" rowspan="4" colspan="2">
+<div style="FONT-SIZE: 9pt; FONT-FAMILY: 'Times New Roman', serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; LINE-HEIGHT: 10.25pt">NUMBER OF<font style="FONT-SIZE: 9pt; FONT-FAMILY: 'Times New Roman', serif"><br>
+</font>SHARES<font style="FONT-SIZE: 9pt; FONT-FAMILY: 'Times New Roman', serif"><br>
+</font>BENEFICIALLY<font style="FONT-SIZE: 9pt; FONT-FAMILY: 'Times New Roman', serif"><br>
+</font>OWNED BY<font style="FONT-SIZE: 9pt; FONT-FAMILY: 'Times New Roman', serif"><br>
+</font>EACH<font style="FONT-SIZE: 9pt; FONT-FAMILY: 'Times New Roman', serif"><br>
+</font>REPORTING<font style="FONT-SIZE: 9pt; FONT-FAMILY: 'Times New Roman', serif"><br>
+</font>PERSON<font style="FONT-SIZE: 9pt; FONT-FAMILY: 'Times New Roman', serif"><br>
+</font> WITH</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; WIDTH: 6.99%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 16pt; FONT-FAMILY: Arial, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; LINE-HEIGHT: 18.25pt">5</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; WIDTH: 73.13%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid" colspan="3">
+<div style="FONT-SIZE: 8.5pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; LINE-HEIGHT: 9.7pt">SOLE VOTING POWER</div>
+
+<div style="LINE-HEIGHT: 13.7pt">&#160;</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">6,120,015</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; WIDTH: 12.86%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 16pt; FONT-FAMILY: Arial, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; LINE-HEIGHT: 18.25pt">6</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; WIDTH: 70.77%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid" colspan="3">
+<div style="FONT-SIZE: 8.5pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; LINE-HEIGHT: 9.7pt">SHARED VOTING POWER</div>
+
+<div style="LINE-HEIGHT: 13.7pt">&#160;</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">0</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; WIDTH: 12.86%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 16pt; FONT-FAMILY: Arial, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; LINE-HEIGHT: 18.25pt">7</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; WIDTH: 70.77%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid" colspan="3">
+<div style="FONT-SIZE: 8.5pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; LINE-HEIGHT: 9.7pt">SOLE DISPOSITIVE POWER</div>
+
+<div style="LINE-HEIGHT: 13.7pt">&#160;</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">6,120,015</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; WIDTH: 12.86%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 16pt; FONT-FAMILY: Arial, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; LINE-HEIGHT: 18.25pt">8</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; WIDTH: 70.77%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid" colspan="3">
+<div style="FONT-SIZE: 8.5pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; LINE-HEIGHT: 9.7pt">SHARED DISPOSITIVE POWER</div>
+
+<div style="LINE-HEIGHT: 13.7pt">&#160;</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">0</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; WIDTH: 7.02%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 16pt; FONT-FAMILY: Arial, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: justify; LINE-HEIGHT: 18.25pt; TEXT-INDENT: 7.5pt">9</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; WIDTH: 92.98%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid" colspan="5">
+<div style="FONT-SIZE: 8.5pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; LINE-HEIGHT: 9.7pt">AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON</div>
+
+<div style="LINE-HEIGHT: 13.7pt">&#160;</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">6,120,015</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; WIDTH: 7.02%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 16pt; FONT-FAMILY: Arial, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: justify; LINE-HEIGHT: 18.25pt">10</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; WIDTH: 83.63%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid" colspan="4">
+<div style="FONT-SIZE: 9pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; LINE-HEIGHT: 10.25pt"><font style="FONT-SIZE: 8.5pt; FONT-FAMILY: 'Times New Roman', serif">CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES (SEE INSTRUCTIONS</font>)</div>
+
+<div style="LINE-HEIGHT: 13.7pt">&#160;</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">Not Applicable</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; WIDTH: 9.35%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 16.3pt; LINE-HEIGHT: 11.4pt">&#9744;</div>
+
+<div style="LINE-HEIGHT: 13.7pt">&#160;</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; WIDTH: 7.02%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 16pt; FONT-FAMILY: Arial, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: justify; LINE-HEIGHT: 18.25pt">11</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; WIDTH: 92.98%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid" colspan="5">
+<div style="FONT-SIZE: 8.5pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; LINE-HEIGHT: 9.7pt">PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)</div>
+
+<div style="LINE-HEIGHT: 13.7pt">&#160;</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">13.35%</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; WIDTH: 7.02%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid">
+<div style="FONT-SIZE: 16pt; FONT-FAMILY: Arial, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: justify; LINE-HEIGHT: 18.25pt">12</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid; WIDTH: 92.98%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid" colspan="5">
+<div style="FONT-SIZE: 8.5pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; LINE-HEIGHT: 9.7pt">TYPE OF REPORTING PERSON (SEE INSTRUCTIONS)</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">EP</div>
+
+<div style="LINE-HEIGHT: 13.7pt">&#160;</div>
+</td>
+</tr>
+</table>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageFooter">
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: justify; LINE-HEIGHT: 13.7pt"></div>
+
+<div style="LINE-HEIGHT: 9.1pt"><br style="LINE-HEIGHT: 9.1pt">
+</div>
+</div>
+
+<div id="DSPFPageNumberArea" style="TEXT-ALIGN: center"><font id="DSPFPageNumber" style="FONT-SIZE: 8pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: normal; FONT-STYLE: normal">2</font></div>
+
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+
+<div id="DSPFPageHeader">
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+</div>
+</div>
+
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">
+<table id="zcfdcc90839f14944960178664db52e29" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: 81pt; VERTICAL-ALIGN: top; align: right">Item 1(a).</td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left"><font style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif"><u>Name of Issuer</u></font>:</td>
+</tr>
+</table>
+</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; MARGIN-LEFT: 81pt; LINE-HEIGHT: 13.7pt; TEXT-INDENT: 0pt">Owl Rock Capital Corporation</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">
+<table id="ze3d7287193da4721bdcac32508e1aa7d" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: 81pt; VERTICAL-ALIGN: top; align: right">Item 1(b).</td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left"><font style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif"><u>Address of Issuer&#8217;s Principal Executive Offices</u></font>:</td>
+</tr>
+</table>
+</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; MARGIN-LEFT: 81pt; LINE-HEIGHT: 13.7pt; TEXT-INDENT: 0pt">245 Park Avenue, 41St Floor, New York, New York&#160; 10167</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">
+<table id="z32fae73394d948b485898b0248c80757" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: 81pt; VERTICAL-ALIGN: top; align: right">Item 2(a).</td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left"><font style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif"><u>Name of Person Filing</u></font>:</td>
+</tr>
+</table>
+</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; MARGIN-LEFT: 81pt; LINE-HEIGHT: 13.7pt; TEXT-INDENT: 0pt">The Regents of the University of California</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">
+<table id="z15000190613b40cea0bc314b39c03232" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: 81pt; VERTICAL-ALIGN: top; align: right">Item 2(b).</td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left"><font style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif"><u>Address of Principal Business Office or, if none, Residence</u></font>:</td>
+</tr>
+</table>
+</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; MARGIN-LEFT: 81pt; LINE-HEIGHT: 13.7pt; TEXT-INDENT: 0pt">1111 Broadway, 21<sup style="vertical-align: text-top; line-height: 1; font-size: smaller">st</sup> Floor, Oakland, CA&#160; 94607-4026</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">
+<table id="zc5e4748f0a264bd88fa93fdb71becaf7" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: 81pt; VERTICAL-ALIGN: top; align: right">Item 2(c).</td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left"><font style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif"><u>Citizenship</u></font>:</td>
+</tr>
+</table>
+</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; MARGIN-LEFT: 81pt; LINE-HEIGHT: 13.7pt; TEXT-INDENT: 0pt">The Regents of the University of California is a California non-profit corporation.</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">
+<table id="zb0645ef0bf21478190e2cba3ea2e75a4" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: 81pt; VERTICAL-ALIGN: top; align: right">Item 2(d).</td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left"><font style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif"><u>Title of Class of Securities</u></font>:</td>
+</tr>
+</table>
+</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; MARGIN-LEFT: 81pt; LINE-HEIGHT: 13.7pt; TEXT-INDENT: 0pt">Common Stock, par value $0.01 per share</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">
+<table id="zadb28fae479b4d8a8d738ba29b69f186" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: 81pt; VERTICAL-ALIGN: top; align: right">Item 2(e).</td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left"><font style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif"><u>CUSIP Number</u></font>:</td>
+</tr>
+</table>
+</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; MARGIN-LEFT: 81pt; LINE-HEIGHT: 13.7pt; TEXT-INDENT: 0pt">None</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">
+<table id="za71b12510e5a4eceb88a90606247a634" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: 81pt; VERTICAL-ALIGN: top; align: right">Item 3.</td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left"><font style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif"><u>If this statement is filed pursuant to sections 240.13d-1(b), or 240.13d-2(b) or (c), check whether the person filing is a</u></font>:</td>
+</tr>
+</table>
+</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">
+<table id="z52b949b792c841c395e37addf16d5542" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 81pt"></td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: 27pt; VERTICAL-ALIGN: top; align: right">(f)</td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left"><font style="FONT-SIZE: 12pt; FONT-FAMILY: 'Wingdings 2', serif">T</font>&#160; An employee benefit plan or endowment fund in accordance with &#167;240.13d-1(b)(1)(ii)(F).</td>
+</tr>
+</table>
+</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageFooter">
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: justify; LINE-HEIGHT: 13.7pt"></div>
+
+<div style="LINE-HEIGHT: 9.1pt"><br style="LINE-HEIGHT: 9.1pt">
+</div>
+</div>
+
+<div id="DSPFPageNumberArea" style="TEXT-ALIGN: center"><font id="DSPFPageNumber" style="FONT-SIZE: 8pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: normal; FONT-STYLE: normal">3</font></div>
+
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+
+<div id="DSPFPageHeader">
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+</div>
+</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">
+<table id="z367137d9d8644caab0f863a5ec9155c7" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: 81pt; VERTICAL-ALIGN: top; align: right">Item 4.</td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left"><font style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif"><u>Ownership</u></font>:</td>
+</tr>
+</table>
+</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">
+<table id="z6b281106605143729522bfda0897fb54" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 81pt"></td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: 27pt; VERTICAL-ALIGN: top; align: right">(a)</td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">Amount Beneficially Owned:&#160;&#160;6,120,015</td>
+</tr>
+</table>
+</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">
+<table id="z7455db4c68b0413ab1abd44c638cc6a0" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 81pt"></td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: 27pt; VERTICAL-ALIGN: top; align: right">(b)</td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">Percent of Class:&#160;&#160;13.35%</td>
+</tr>
+</table>
+</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">
+<table id="zac62cb2938644aedb008916885d991f3" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 81pt"></td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: 27pt; VERTICAL-ALIGN: top; align: right">(c)</td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">Number of shares as to which such person has:</td>
+</tr>
+</table>
+</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">
+<table id="zc12268a6285d43009086ba02d5a6a061" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 108pt"></td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: 22.5pt; VERTICAL-ALIGN: top; align: right">(i)</td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">sole power to vote or to direct the vote:&#160;&#160;6,120,015</td>
+</tr>
+</table>
+</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">
+<table id="z8cdfe8d9af834d2592971a462b280357" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 108pt"></td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: 22.5pt; VERTICAL-ALIGN: top; align: right">(ii)</td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">shared power to vote or to direct the vote:&#160;&#160;0</td>
+</tr>
+</table>
+</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">
+<table id="zc59f6b70b0a94ecabc1a8c7f1c964d58" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 108pt"></td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: 22.5pt; VERTICAL-ALIGN: top; align: right">(iii)</td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">sole power to dispose or to direct the disposition of:&#160;&#160;6,120,015</td>
+</tr>
+</table>
+</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">
+<table id="z12c31d47936e40ccac012f577e6ef9ee" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 108pt"></td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: 22.5pt; VERTICAL-ALIGN: top; align: right">(iv)</td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">shared power to dispose or to direct the disposition of:&#160;&#160;0</td>
+</tr>
+</table>
+</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">
+<table id="z173647a5c2024043aacaa930fd3f5ca2" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: 81pt; VERTICAL-ALIGN: top; align: right">Item 5.</td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left"><font style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif"><u>Ownership of Five Percent or Less of a Class</u></font>:</td>
+</tr>
+</table>
+</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; MARGIN-LEFT: 81pt; LINE-HEIGHT: 13.7pt; TEXT-INDENT: 0pt">Not applicable.</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">
+<table id="z99c06dea388443cfa2f1c3d45f539880" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: 81pt; VERTICAL-ALIGN: top; align: right">Item 6.</td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left"><font style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif"><u>Ownership of More than Five Percent on Behalf of Another Person</u></font>:</td>
+</tr>
+</table>
+</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; MARGIN-LEFT: 81pt; LINE-HEIGHT: 13.7pt; TEXT-INDENT: 0pt">Not applicable.</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">
+<table id="zfcdb120675cd4952862741845677a6e8" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: 81pt; VERTICAL-ALIGN: top; align: right">Item 7.</td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left"><font style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif"><u>Identification and Classification of the Subsidiary Which Acquired the Security Being Reported on by the Parent Holding Company or Control Person</u></font>:</td>
+</tr>
+</table>
+</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; MARGIN-LEFT: 81pt; LINE-HEIGHT: 13.7pt; TEXT-INDENT: 0pt">Not applicable.</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">
+<table id="z854243d5ade247808a7001f2167e874e" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: 81pt; VERTICAL-ALIGN: top; align: right">Item 8.</td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left"><font style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif"><u>Identification and Classification of Members of the Group</u></font>:</td>
+</tr>
+</table>
+</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; MARGIN-LEFT: 81pt; LINE-HEIGHT: 13.7pt; TEXT-INDENT: 0pt">Not applicable.</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">
+<table id="z050b09de35424d0cb7c1bf1880f132c1" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: 81pt; VERTICAL-ALIGN: top; align: right">Item 9.</td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left"><font style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif"><u>Notice of Dissolution of Group</u></font>:</td>
+</tr>
+</table>
+</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; MARGIN-LEFT: 81pt; LINE-HEIGHT: 13.7pt; TEXT-INDENT: 0pt">Not applicable.</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageFooter">
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: justify; LINE-HEIGHT: 13.7pt"></div>
+
+<div style="LINE-HEIGHT: 9.1pt"><br style="LINE-HEIGHT: 9.1pt">
+</div>
+</div>
+
+<div id="DSPFPageNumberArea" style="TEXT-ALIGN: center"><font id="DSPFPageNumber" style="FONT-SIZE: 8pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: normal; FONT-STYLE: normal">4</font></div>
+
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+
+<div id="DSPFPageHeader">
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+</div>
+</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">
+<table id="z7f920191c87948e5be55bf93f1d477c1" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: 81pt; VERTICAL-ALIGN: top; align: right">Item 10.</td>
+<td style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left"><font style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif"><u>Certification</u></font>:</td>
+</tr>
+</table>
+</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; MARGIN-LEFT: 81pt; LINE-HEIGHT: 13.7pt; TEXT-INDENT: 0pt">By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect.</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; FONT-WEIGHT: bold; TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt">SIGNATURE</div>
+
+<div style="LINE-HEIGHT: 13.7pt">&#160;</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt; TEXT-INDENT: 72pt">After reasonable inquiry and to the best of my knowledge and belief, I certify that the information set forth in this statement is true, complete and correct.</div>
+
+<div style="LINE-HEIGHT: 13.7pt">&#160;</div>
+
+<div style="LINE-HEIGHT: 13.7pt">
+<div id="DSPFPageHeader">
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; LINE-HEIGHT: 13.7pt">Date:&#160; January 4, 2017</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; FONT-VARIANT: small-caps; TEXT-ALIGN: left; MARGIN-LEFT: 216pt; LINE-HEIGHT: 13.7pt">The Regents of the University of California</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+
+<div style="TEXT-ALIGN: left; MARGIN-LEFT: 216pt; LINE-HEIGHT: 13.7pt"><font style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif">By:&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font><font style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif"><u>/s/ Arthur Guimaraes</u></font><font id="TRGRRTFtoHTMLTab" style="FONT-SIZE: 5.05pt">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; MARGIN-LEFT: 216pt; LINE-HEIGHT: 13.7pt; TEXT-INDENT: 36pt">Arthur Guimaraes</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; MARGIN-LEFT: 216pt; LINE-HEIGHT: 13.7pt; TEXT-INDENT: 36pt">Associate CIO and</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; MARGIN-LEFT: 216pt; LINE-HEIGHT: 13.7pt; TEXT-INDENT: 36pt">Chief Operating Officer, OCIO</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; MARGIN-LEFT: 216pt; LINE-HEIGHT: 13.7pt; TEXT-INDENT: 36pt">&#160;</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; MARGIN-LEFT: 216pt; LINE-HEIGHT: 13.7pt; TEXT-INDENT: 36pt">&#160;</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; MARGIN-LEFT: 216pt; LINE-HEIGHT: 13.7pt; TEXT-INDENT: 36pt">&#160;</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; MARGIN-LEFT: 216pt; LINE-HEIGHT: 13.7pt; TEXT-INDENT: 36pt">&#160;</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; MARGIN-LEFT: 216pt; LINE-HEIGHT: 13.7pt; TEXT-INDENT: 36pt">&#160;</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; MARGIN-LEFT: 216pt; LINE-HEIGHT: 13.7pt; TEXT-INDENT: 36pt">&#160;</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: left; MARGIN-LEFT: 216pt; LINE-HEIGHT: 13.7pt; TEXT-INDENT: 36pt">&#160;</div>
+
+<div id="DSPFPageFooter">
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman', serif; TEXT-ALIGN: justify; LINE-HEIGHT: 13.7pt"></div>
+
+<div style="FONT-SIZE: 8pt; FONT-FAMILY: Arial, sans-serif; TEXT-ALIGN: justify; LINE-HEIGHT: 9.1pt">&#160;</div>
+</div>
+</div>
+</div>
+
+<div id="DSPFPageNumberArea" style="TEXT-ALIGN: center"><font id="DSPFPageNumber" style="FONT-SIZE: 8pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-WEIGHT: normal; FONT-STYLE: normal">5</font></div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,1409 @@
+<SEC-DOCUMENT>0001140361-24-003617.txt : 20240124
+<SEC-HEADER>0001140361-24-003617.hdr.sgml : 20240124
+<ACCEPTANCE-DATETIME>20240124124106
+ACCESSION NUMBER:		0001140361-24-003617
+CONFORMED SUBMISSION TYPE:	SC 13G/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20240124
+DATE AS OF CHANGE:		20240124
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Lafayette Square USA, Inc.
+		CENTRAL INDEX KEY:			0001849089
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-93706
+		FILM NUMBER:		24555379
+
+	BUSINESS ADDRESS:	
+		STREET 1:		175 SW 7TH STREET
+		STREET 2:		UNIT 1911
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33130
+		BUSINESS PHONE:		7866880975
+
+	MAIL ADDRESS:	
+		STREET 1:		175 SW 7TH STREET
+		STREET 2:		UNIT 1911
+		CITY:			MIAMI
+		STATE:			FL
+		ZIP:			33130
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Lafayette Square Empire BDC, Inc.
+		DATE OF NAME CHANGE:	20211101
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Lafayette Square Empire BDC, LLC
+		DATE OF NAME CHANGE:	20210303
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			REGENTS OF THE UNIVERSITY OF CALIFORNIA
+		CENTRAL INDEX KEY:			0000315054
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1111 FRANKLIN STREET
+		STREET 2:		6TH FLOOR
+		CITY:			OAKLAND
+		STATE:			CA
+		ZIP:			94607
+		BUSINESS PHONE:		510-987-9600
+
+	MAIL ADDRESS:	
+		STREET 1:		1111 FRANKLIN STREET
+		STREET 2:		6TH FLOOR
+		CITY:			OAKLAND
+		STATE:			CA
+		ZIP:			94607
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	REGENTS OF THE UNIVERSITY OF CA
+		DATE OF NAME CHANGE:	19600201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G/A
+<SEQUENCE>1
+<FILENAME>ef20019621_sc13ga.htm
+<DESCRIPTION>SC 13G/A
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Broadridge Financial Solutions. Inc.
+         Document created using Broadridge PROfile 23.12.1.5186
+         Copyright 1995 - 2024 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman'; font-size: 10pt; text-align: left; color: #000000;">
+  <div>
+    <hr align="center" style="border: none; border-bottom: 1px solid black; border-top: 4px solid black; height: 10px; color: #ffffff; background-color: #ffffff; text-align: center; margin-left: auto; margin-right: auto;">
+    <div>
+      <div style="text-align: center; font-size: 14pt; font-weight: bold;">UNITED STATES</div>
+      <div style="text-align: center; font-weight: bold;"><font style="font-size: 14pt;">SECURITIES AND EXCHANGE COMMISSION</font><br>
+      </div>
+      <div style="text-align: center; font-size: 12pt; font-weight: bold;">Washington, D.C. 20549</div>
+      <div>&#160;</div>
+      <div style="text-align: center; font-size: 18pt; font-weight: bold;">SCHEDULE 13G</div>
+      <div>&#160;</div>
+      <div style="text-align: center; font-weight: bold;">Under the Securities Exchange Act of 1934</div>
+      <div style="text-align: center; font-weight: bold;">(Amendment No. 1__)*</div>
+      <div>&#160;</div>
+      <div style="text-align: center; font-size: 24pt;">Lafayette Square USA, Inc.</div>
+      <div>&#160;</div>
+      <div>
+        <hr noshade="noshade" align="center" style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;"> </div>
+      <div style="text-align: center;"><font style="font-weight: bold;">&#160;</font>(Name of Issuer)</div>
+      <div>&#160;</div>
+      <div style="text-align: center;">Common Stock, $0.01</div>
+      <div style="text-align: center;"><font style="font-weight: bold;"><br>
+        </font></div>
+      <font style="font-weight: bold;"></font>
+      <hr noshade="noshade" align="center" style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;">
+      <div style="text-align: center;"><font style="font-weight: bold;"></font>(Title of Class of Securities)</div>
+      <div>&#160;</div>
+      <div style="text-align: center;">50676R108</div>
+      <div>&#160;
+        <hr noshade="noshade" align="center" style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;"></div>
+      <div style="text-align: center;"><font style="font-weight: bold;">&#160;</font>(CUSIP Number)</div>
+      <div>&#160;</div>
+      <div style="text-align: center;">December 31, 2023</div>
+      <div style="text-align: center;"> <br>
+      </div>
+      <div style="text-align: center;">
+        <hr noshade="noshade" align="center" style="height: 2px; color: #000000; background-color: #000000; margin-left: auto; margin-right: auto; border: none;"> </div>
+      <div style="text-align: center;">(Date of Event Which Requires Filing of This Statement)</div>
+      <div>&#160;</div>
+      <div>Check the appropriate box to designate the rule pursuant to which this Schedule is filed:</div>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z79de600160b44851a6ebc34cda4802e8">
+
+          <tr>
+            <td style="width: 36pt; vertical-align: top;">&#9746;</td>
+            <td style="width: auto; vertical-align: top;">
+              <div>Rule 13d-1(b)</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z1782a22a7f8842b6916c1f824963b18d">
+
+          <tr>
+            <td style="width: 36pt; vertical-align: top;">&#9744;</td>
+            <td style="width: auto; vertical-align: top;">
+              <div>Rule 13d-1(c)</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z16c556b057fc4eb3be6f74d85180da1b">
+
+          <tr>
+            <td style="width: 36pt; vertical-align: top;">&#9744;</td>
+            <td style="width: auto; vertical-align: top;">
+              <div>Rule 13d-1(d)</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div>*The remainder of this cover page shall be filled out for a reporting person&#8217;s initial filing on this form with respect to the subject class of securities, and for any subsequent amendment containing information which would alter the disclosures
+        provided in a prior cover page.</div>
+      <div>&#160;</div>
+      <div>The information required in the remainder of this cover page shall not be deemed to be &#8220;filed&#8221; for the purpose of Section 18 of the Securities Exchange Act of 1934 (&#8220;Act&#8221;) or otherwise subject to the liabilities of that section of the Act but
+        shall be subject to all other provisions of the Act (however, see the Notes.)</div>
+      <div>&#160;</div>
+      <div>
+        <hr align="center" style="border: none; border-bottom: 4px solid black; border-top: 1px solid black; height: 10px; color: #ffffff; background-color: #ffffff; text-align: center; margin-left: auto; margin-right: auto;"></div>
+      <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+        <div style="page-break-after: always;" class="BRPFPageBreak">
+          <hr noshade="noshade" style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;"></div>
+      </div>
+      <div style="text-align: center; font-weight: bold;">CUSIP No. 50676R108</div>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="2" border="0" style="border-collapse: collapse; width: 100%; font-family: 'Times New Roman'; font-size: 10pt;">
+
+          <tr>
+            <td style="BORDER-TOP: #000000 1pt solid; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+              <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">1</div>
+            </td>
+            <td style="BORDER-TOP: #000000 1pt solid; VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 89.86%" colspan="3">
+              <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">NAMES OF REPORTING PERSONS</div>
+            </td>
+            <td style="BORDER-TOP: #000000 1pt solid; VERTICAL-ALIGN: middle; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-TOP: #000000 1pt solid; BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 89.86%" rowspan="2" colspan="3">
+              <div style="text-align: left;">
+                <div style="font-weight: bold;">
+                  <div style="font-weight: normal;">I.R.S. IDENTIFICATION NOS. OF ABOVE PERSONS (ENTITIES ONLY)</div>
+                  <div style="font-weight: normal;"> <br>
+                  </div>
+                </div>
+              </div>
+              <div style="text-align: left;">The Regents of the University of California</div>
+              <div style="text-align: left;"> <br>
+              </div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+              <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">2</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 89.86%" colspan="3">
+              <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.05%">&#160;</td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: middle; WIDTH: 1.74%">&#160;</td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 89.86%" colspan="3">
+              <div style="TEXT-ALIGN: left">(a)&#9744;</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.05%">&#160;</td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: middle; WIDTH: 1.74%">&#160;</td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 89.86%" colspan="3">
+              <div style="TEXT-ALIGN: left">(b)<font style="FONT-FAMILY: ''Times New Roman''">&#9744;</font></div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+              <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">3</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 89.86%; BACKGROUND-COLOR: #bfbfbf" colspan="3">
+              <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">SEC USE ONLY</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.05%; BACKGROUND-COLOR: #bfbfbf">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 1.74%; BACKGROUND-COLOR: #bfbfbf">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr style="BACKGROUND-COLOR: #bfbfbf">
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 89.86%" rowspan="2" colspan="3">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr style="BACKGROUND-COLOR: #bfbfbf">
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+              <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">4</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; FONT-WEIGHT: bold; BORDER-LEFT: #000000 1pt solid; WIDTH: 89.86%" colspan="3">
+              <div style="TEXT-ALIGN: left">CITIZENSHIP OR PLACE OF ORGANIZATION</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 89.86%" rowspan="2" colspan="3">
+              <div style="text-align: left;">U.S.</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; FONT-WEIGHT: bold; BORDER-LEFT: #000000 1pt solid; WIDTH: 12.71%" rowspan="12" colspan="2">
+              <div style="TEXT-ALIGN: center">NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+              <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">5</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 80.18%">
+              <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">SOLE VOTING POWER</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 80.18%" rowspan="2">
+              <div style="text-align: left;">4,286,424</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+              <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">6</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 80.18%">
+              <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">SHARED VOTING POWER</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 80.18%" rowspan="2"> 0<br>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+              <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">7</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 80.18%">
+              <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">SOLE DISPOSITIVE POWER</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 80.18%" rowspan="2">
+              <div style="text-align: left;">4,286,424</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+              <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">8</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 80.18%">
+              <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">SHARED DISPOSITIVE POWER</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 80.18%" rowspan="2"> 0<br>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+              <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">9</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 89.86%" colspan="3">
+              <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 89.86%" rowspan="2" colspan="3">
+              <div style="text-align: left;">4,286,424</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+              <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">10</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 89.86%" colspan="3">
+              <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">CHECK IF THE AGGREGATE AMOUNT IN ROW (9)&#160;EXCLUDES CERTAIN SHARES (SEE INSTRUCTIONS)</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: middle; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 89.86%" rowspan="2" colspan="3">
+              <div style="text-align: left;">&#9744;</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+              <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">11</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 89.86%" colspan="3">
+              <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 89.86%" rowspan="2" colspan="3">
+              <div style="text-align: left;">19.93%</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; BORDER-LEFT: #000000 1pt solid; WIDTH: 6.36%" rowspan="3">
+              <div style="FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">12</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1pt solid; WIDTH: 89.86%" colspan="3">
+              <div style="FONT-WEIGHT: bold; TEXT-ALIGN: left">TYPE OF REPORTING PERSON (SEE INSTRUCTIONS)</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; PADDING-LEFT: 2pt; BORDER-LEFT: #000000 1pt solid; WIDTH: 89.86%" rowspan="2" colspan="3">
+              <div style="text-align: left;">EP</div>
+            </td>
+            <td style="VERTICAL-ALIGN: middle; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 2.05%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+            <td style="BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; WIDTH: 1.74%">
+              <div style="TEXT-ALIGN: left">&#160;</div>
+            </td>
+          </tr>
+
+      </table>
+      <div><br>
+      </div>
+      <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+        <div style="page-break-after: always;" class="BRPFPageBreak">
+          <hr noshade="noshade" style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;"></div>
+      </div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z17ee94c16aea4095a901d2f87b4413c0">
+
+          <tr>
+            <td style="width: 45pt; vertical-align: top; font-weight: bold;">Item 1(a).</td>
+            <td style="width: auto; vertical-align: top;">
+              <div>Name of Issuer:</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div style="margin-left: 45pt;">Lafayette Square USA, Inc.</div>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z48b84a89ccc74986b428b947fa781124">
+
+          <tr>
+            <td style="width: 45pt; vertical-align: top; font-weight: bold;">Item 1(b).</td>
+            <td style="width: auto; vertical-align: top;">
+              <div>Address of Issuer&#8217;s Principal Executive Offices:</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div style="margin-left: 45pt;">175 SW 7th St., Unit 1911, Miami, FL 33130</div>
+      <div style="margin-left: 9pt;">&#160;</div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z1fcc2de573594f80a04fc15c68737858">
+
+          <tr>
+            <td style="width: 45pt; vertical-align: top; font-weight: bold;">Item 2(a).</td>
+            <td style="width: auto; vertical-align: top;">
+              <div>Name of Person Filing:</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div style="margin-left: 45pt;">The Regents of the University of California</div>
+      <div style="margin-left: 9pt;">&#160;</div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z08280b38fc75441b98e505a48d1f7171">
+
+          <tr>
+            <td style="width: 45pt; vertical-align: top; font-weight: bold;">Item 2(b).</td>
+            <td style="width: auto; vertical-align: top;">
+              <div>Address of Principal Business Office or, if none, Residence:</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div style="margin-left: 45pt;">1111 Franklin Street, Oakland, CA 94607</div>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="zb005b53c7d1a4477b7da27afdafc73a3">
+
+          <tr>
+            <td style="width: 45pt; vertical-align: top; font-weight: bold;">Item 2(c).</td>
+            <td style="width: auto; vertical-align: top;">
+              <div>Citizenship:</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div style="margin-left: 45pt;">U.S.</div>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z43b5279f47044109b85d4bc9c25e9f5d">
+
+          <tr>
+            <td style="width: 45pt; vertical-align: top; font-weight: bold;">Item 2(d).</td>
+            <td style="width: auto; vertical-align: top;">
+              <div>Title of Class of Securities:</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div style="margin-left: 45pt;">Common Stock</div>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="zc77ba96088f349d7aad774c34a9a0d37">
+
+          <tr>
+            <td style="width: 45pt; vertical-align: top; font-weight: bold;">Item 2(e).</td>
+            <td style="width: auto; vertical-align: top;">
+              <div>CUSIP Number: 50676R108</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+        <div style="page-break-after: always;" class="BRPFPageBreak">
+          <hr noshade="noshade" style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;"></div>
+      </div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="zef6db680e590495a8c03e0f77837ce46">
+
+          <tr>
+            <td style="width: 45pt; vertical-align: top; font-weight: bold;">Item 3.</td>
+            <td style="width: auto; vertical-align: top;">
+              <div>If this Statement is filed pursuant to 240.13d-1(b) or 240.13d-2(b) or (c), check whether the person filing is a:</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div>
+        <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z13af4e39cb39402da867fcbb42d2afd2">
+
+            <tr>
+              <td style="width: 45pt;">&#160;</td>
+              <td style="width: 18pt; vertical-align: top; text-align: right;">
+                <div style="text-align: left;">(a)</div>
+              </td>
+              <td style="vertical-align: top;">
+                <div>&#9744; Broker or dealer registered under Section 15 of the Act;</div>
+              </td>
+            </tr>
+
+        </table>
+      </div>
+      <div>
+        <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="ze7c7809ed02a42b7aecf517ef3f09317">
+
+            <tr>
+              <td style="width: 45pt;">&#160;</td>
+              <td style="width: 18pt; vertical-align: top; text-align: right;">
+                <div style="text-align: left;">(b)</div>
+              </td>
+              <td style="vertical-align: top;">
+                <div>&#9744; Bank as defined in Section 3(a)(6) of the Act;</div>
+              </td>
+            </tr>
+
+        </table>
+      </div>
+      <div>
+        <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z510b73f1412743648a9ba9f4b8657a44">
+
+            <tr>
+              <td style="width: 45pt;">&#160;</td>
+              <td style="width: 18pt; vertical-align: top; text-align: right;">
+                <div style="text-align: left;">(c)</div>
+              </td>
+              <td style="vertical-align: top;">
+                <div>&#9744; Insurance company as defined in Section 3(a)(19) of the Act;</div>
+              </td>
+            </tr>
+
+        </table>
+      </div>
+      <div>
+        <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="zc1f31d21e7064a35b85835feddb586f0">
+
+            <tr>
+              <td style="width: 45pt;">&#160;</td>
+              <td style="width: 18pt; vertical-align: top; text-align: right;">
+                <div style="text-align: left;">(d)</div>
+              </td>
+              <td style="vertical-align: top;">
+                <div>&#9744; Investment company registered under Section 8 of the Investment Company Act of 1940;</div>
+              </td>
+            </tr>
+
+        </table>
+      </div>
+      <div>
+        <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z32a99e698e7e47a689f1e5b8bf332dbe">
+
+            <tr>
+              <td style="width: 45pt;">&#160;</td>
+              <td style="width: 18pt; vertical-align: top; text-align: right;">
+                <div style="text-align: left;">(e)</div>
+              </td>
+              <td style="vertical-align: top;">
+                <div>&#9744; An investment adviser in accordance with Rule 13d-1(b)(1)(ii)(E);</div>
+              </td>
+            </tr>
+
+        </table>
+      </div>
+      <div>
+        <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="zb9ff1c75714a4c1882d44b15b3f4d36d">
+
+            <tr>
+              <td style="width: 45pt;">&#160;</td>
+              <td style="width: 18pt; vertical-align: top; text-align: right;">
+                <div style="text-align: left;">(f)</div>
+              </td>
+              <td style="vertical-align: top;">
+                <div>&#9746; An employee benefit plan or endowment fund in accordance with Rule 13d-1(b)(1)(ii)(F);</div>
+              </td>
+            </tr>
+
+        </table>
+      </div>
+      <div>
+        <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z0f4863e951704112861e8001b1ca45f7">
+
+            <tr>
+              <td style="width: 45pt;">&#160;</td>
+              <td style="width: 18pt; vertical-align: top; text-align: right;">
+                <div style="text-align: left;">(g)</div>
+              </td>
+              <td style="vertical-align: top;">
+                <div>&#9744; A parent holding company or control person in accordance with Rule 13d-1(b)(1)(ii)(G);</div>
+              </td>
+            </tr>
+
+        </table>
+      </div>
+      <div>
+        <table cellspacing="0" cellpadding="0" class="DSPFListTable" id="zd88a83484aba41d493f11fe8c5384944" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%;">
+
+            <tr style="vertical-align: top;">
+              <td style="width: 45pt;">&#160;</td>
+              <td style="text-align: left; vertical-align: top; width: 18pt;">(h)</td>
+              <td style="text-align: left; vertical-align: top;">
+                <div>&#9744; A savings association as defined in Section 3(b) of the Federal Deposit Insurance Act (12 U.S.C. 1813);</div>
+              </td>
+            </tr>
+
+        </table>
+      </div>
+      <div>
+        <table cellspacing="0" cellpadding="0" class="DSPFListTable" id="ze2a4259a8a2c4ae5a4f1c24a052b0144" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%;">
+
+            <tr style="vertical-align: top;">
+              <td style="width: 45pt;">&#160;</td>
+              <td style="text-align: left; vertical-align: top; width: 18pt;">(i)</td>
+              <td style="text-align: left; vertical-align: top;">
+                <div>&#9744; A church plan that is excluded from the definition of an investment company under Section 3(c)(14) of the Investment Company Act of 1940;</div>
+              </td>
+            </tr>
+
+        </table>
+      </div>
+      <div>
+        <table cellspacing="0" cellpadding="0" class="DSPFListTable" id="zb73e6fc5a1c04adb9aef5a57313d39a0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%;">
+
+            <tr style="vertical-align: top;">
+              <td style="width: 45pt;">&#160;</td>
+              <td style="text-align: left; vertical-align: top; width: 18pt;">(j)</td>
+              <td style="text-align: left; vertical-align: top;">
+                <div>&#9744; A non-U.S. institution in accordance with Rule 240.13d-1(b)(1)(ii)(J);</div>
+              </td>
+            </tr>
+
+        </table>
+      </div>
+      <div>
+        <table cellspacing="0" cellpadding="0" class="DSPFListTable" id="z34cb71eddd5345ea8c0473e2ab109d85" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%;">
+
+            <tr style="vertical-align: top;">
+              <td style="width: 45pt;">&#160;</td>
+              <td style="text-align: left; vertical-align: top; width: 18pt;">(k)</td>
+              <td style="text-align: left; vertical-align: top;">
+                <div>&#9744; Group, in accordance with Rule 240.13d-1(b)(1)(ii)(K). If filing as a non-U.S. institution in accordance with Rule 240.13d-1(b)(1)(ii)(J), please specify the type of institution: Click or tap here to enter text.</div>
+              </td>
+            </tr>
+
+        </table>
+      </div>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z4615f19e75864686adc67187091bf27a">
+
+          <tr>
+            <td style="width: 45pt; vertical-align: top; font-weight: bold;">Item 4.</td>
+            <td style="width: auto; vertical-align: top;">
+              <div style="font-weight: bold;">Ownership</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div style="margin-left: 45pt;">Provide the following information regarding the aggregate number and percentage of the class of securities of the issuer identified in Item 1.</div>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="zf4590f0d5ba0468fb31f6e13def28020">
+
+          <tr>
+            <td colspan="1" style="width: 7.07%; vertical-align: top;">&#160;</td>
+            <td style="width: 2.93%; vertical-align: top;">
+              <div>(a)</div>
+            </td>
+            <td style="width: 41.9%; vertical-align: top;">
+              <div>Amount Beneficially Owned:</div>
+            </td>
+            <td style="width: 47.93%; vertical-align: top;">
+              <div>4,286,424</div>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="1" style="width: 7.07%; vertical-align: top;">&#160;</td>
+            <td style="width: 2.93%; vertical-align: top;">
+              <div>(b)</div>
+            </td>
+            <td style="width: 41.9%; vertical-align: top;">
+              <div>Percent of Class:</div>
+            </td>
+            <td style="width: 47.93%; vertical-align: top;">
+              <div>19.93%</div>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="1" style="width: 7.07%; vertical-align: top;">&#160;</td>
+            <td style="width: 2.93%; vertical-align: top;">
+              <div>(c)</div>
+            </td>
+            <td style="width: 41.9%; vertical-align: top;">
+              <div>Number of shares as to which such person has:</div>
+            </td>
+            <td style="width: 47.93%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td colspan="1" style="width: 7.07%; vertical-align: top;">&#160;</td>
+            <td style="width: 2.93%; vertical-align: top;">&#160;</td>
+            <td style="width: 41.9%; vertical-align: top;">
+              <div>(i) sole power to vote or direct the vote:</div>
+            </td>
+            <td style="width: 47.93%; vertical-align: top;">
+              <div>4,286,424</div>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="1" style="width: 7.07%; vertical-align: top;">&#160;</td>
+            <td style="width: 2.93%; vertical-align: top;">&#160;</td>
+            <td style="width: 41.9%; vertical-align: top;">
+              <div>(ii) shared power to vote or direct the vote:</div>
+            </td>
+            <td style="width: 47.93%; vertical-align: top;">
+              <div>0</div>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="1" style="width: 7.07%; vertical-align: top;">&#160;</td>
+            <td style="width: 2.93%; vertical-align: top;">&#160;</td>
+            <td style="width: 41.9%; vertical-align: top;">
+              <div>(iii) sole power to dispose or to direct the disposition of:</div>
+            </td>
+            <td style="width: 47.93%; vertical-align: top;">
+              <div>4,286,424</div>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="1" style="width: 7.07%; vertical-align: top;">&#160;</td>
+            <td style="width: 2.93%; vertical-align: top;">&#160;</td>
+            <td style="width: 41.9%; vertical-align: top;">
+              <div>(iv) shared power to dispose or to direct the disposition of:</div>
+            </td>
+            <td style="width: 47.93%; vertical-align: top;">
+              <div>0</div>
+            </td>
+          </tr>
+
+      </table>
+      <div><br>
+      </div>
+      <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+        <div style="page-break-after: always;" class="BRPFPageBreak">
+          <hr noshade="noshade" style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;"></div>
+      </div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z0331877f9a704f219c932bd8abe944f2">
+
+          <tr>
+            <td style="width: 45pt; vertical-align: top; font-weight: bold;">Item 5.</td>
+            <td style="width: auto; vertical-align: top;">
+              <div style="font-weight: bold;">Ownership of Five Percent or Less of a Class.</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div style="margin-left: 45pt;">If this Statement is being filed to report the fact that as of the date hereof the reporting person has ceased to be the beneficial owner of more than five percent of the class of securities, check the following &#9744;.</div>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="zc5133ed0690c4b829788abb1ccab0365">
+
+          <tr>
+            <td style="width: 45pt; vertical-align: top; font-weight: bold;">Item 6.</td>
+            <td style="width: auto; vertical-align: top;">
+              <div style="font-weight: bold;">Ownership of More than Five Percent on Behalf of Another Person.</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div style="text-indent: 36pt; margin-left: 9pt;">None/Not Applicable</div>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="zcf4a483c26254211a2e03b30a0ce175f">
+
+          <tr>
+            <td style="width: 45pt; vertical-align: top; font-weight: bold;">Item 7.</td>
+            <td style="width: auto; vertical-align: top;">
+              <div style="font-weight: bold;">Identification and Classification of the Subsidiary Which Acquired the Security Being Reported on by the Parent Holding Company.</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div style="margin-left: 45pt;">None/Not Applicable</div>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z09a9a85e2ca2415fb2ad284922f96165">
+
+          <tr>
+            <td style="width: 45pt; vertical-align: top; font-weight: bold;">Item 8.</td>
+            <td style="width: auto; vertical-align: top;">
+              <div style="font-weight: bold;">Identification and Classification of Members of the Group.</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div style="text-indent: 36pt; margin-left: 9pt;">None/Not Applicable</div>
+      <div style="margin-left: 9pt;">&#160;</div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z54c31a9a20bd42b7ba119337c7ec80bf">
+
+          <tr>
+            <td style="width: 45pt; vertical-align: top; font-weight: bold;">Item 9.</td>
+            <td style="width: auto; vertical-align: top;">
+              <div style="font-weight: bold;">Notice of Dissolution of Group.</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div style="text-indent: 36pt; margin-left: 9pt;">None/Not Applicable</div>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z291614cc14a249fd9958b32d9fd429f7">
+
+          <tr>
+            <td style="width: 45pt; vertical-align: top; font-weight: bold;">Item 10.</td>
+            <td style="width: auto; vertical-align: top;">
+              <div style="font-weight: bold;">Certification.</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <div style="margin-left: 45pt;">By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the
+        purpose of and do not have the effect of changing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having such purpose or effect for the time being.</div>
+      <div style="margin-left: 36pt;"> <br>
+      </div>
+      <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+        <div style="page-break-after: always;" class="BRPFPageBreak">
+          <hr noshade="noshade" style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;"></div>
+      </div>
+      <div style="text-align: center;">&#160;SIGNATURE</div>
+      <div>&#160;</div>
+      <div style="text-indent: 36pt;">After reasonable inquiry and to the best of my knowledge and belief, I certify that the information set forth in this statement is true, complete and correct.</div>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;" id="z324db814b8024f43973ce3fadd39ef05">
+
+          <tr>
+            <td style="width: 60%; vertical-align: top;">&#160;</td>
+            <td style="width: 40%; vertical-align: top;">
+              <div>1/22/2024</div>
+            </td>
+          </tr>
+          <tr>
+            <td rowspan="1" style="width: 60%; vertical-align: top; padding-bottom: 2px;">&#160;</td>
+            <td rowspan="1" style="width: 40%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 60%; vertical-align: top;">&#160;</td>
+            <td style="width: 40%; vertical-align: top;">
+              <div>Date</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 60%; vertical-align: top;">&#160;</td>
+            <td style="width: 40%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 60%; vertical-align: top; padding-bottom: 2px;">&#160;</td>
+            <td style="width: 40%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+              <div>/s/ Arthur R. Guimar&#227;es</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 60%; vertical-align: top;">&#160;</td>
+            <td style="width: 40%; vertical-align: top;">
+              <div>Signature</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 60%; vertical-align: top;">&#160;</td>
+            <td style="width: 40%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 60%; vertical-align: top;">&#160;</td>
+            <td style="width: 40%; vertical-align: top;">
+              <div>Arthur R. Guimar&#227;es</div>
+            </td>
+          </tr>
+          <tr>
+            <td rowspan="1" style="width: 60%; vertical-align: top;">&#160;</td>
+            <td rowspan="1" style="width: 40%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 60%; vertical-align: top;">&#160;</td>
+            <td style="width: 40%; vertical-align: top;">
+              <div>Chief Operating Officer</div>
+            </td>
+          </tr>
+          <tr>
+            <td rowspan="1" style="width: 60%; vertical-align: top;">&#160;</td>
+            <td rowspan="1" style="width: 40%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 60%; vertical-align: top;">&#160;</td>
+            <td style="width: 40%; vertical-align: top;">
+              <div>Associate Chief Investment Officer</div>
+            </td>
+          </tr>
+          <tr>
+            <td rowspan="1" style="width: 60%; vertical-align: top; padding-bottom: 2px;">&#160;</td>
+            <td rowspan="1" style="width: 40%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 60%; vertical-align: top;">&#160;</td>
+            <td style="width: 40%; vertical-align: top;">
+              <div>Name/Title</div>
+            </td>
+          </tr>
+
+      </table>
+      <div><br>
+      </div>
+      <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+        <div style="page-break-after: always;" class="BRPFPageBreak">
+          <hr noshade="noshade" style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;"></div>
+      </div>
+      <div style="text-align: center; font-style: italic; font-weight: bold;">Instructions</div>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="zdafa762930954ee19f9f04d85b07ad77">
+
+          <tr>
+            <td style="width: 27pt; vertical-align: top;">(1)</td>
+            <td style="width: auto; vertical-align: top;">
+              <div><font style="font-style: italic;">Names of Reporting Persons</font>---Furnish the full legal name of each person for whom the report is filed---i.e., each person required to sign the schedule itself&#8212;including each member of a group. Do
+                not include the name of a person required to be identified in the report but who is not a reporting person.</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z2c57c3246365479a8a4df618cc70d0c5">
+
+          <tr>
+            <td style="width: 27pt; vertical-align: top;">(2)</td>
+            <td style="width: auto; vertical-align: top;">
+              <div>If any of the shares beneficially owned by a reporting person are held as a member of a group and that membership is expressly affirmed, please check row 2(a). If the reporting person disclaims membership in a group or describes a
+                relationship with another person but does not affirm the existence of the group, please check row 2(b) [unless it is joint filing pursuant to Rule 13d-1(k)(1) in which case it may not be necessary to check row 2(b)].</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z92836215d4b4489886a540f5670ee179">
+
+          <tr>
+            <td style="width: 27pt; vertical-align: top;">(3)</td>
+            <td style="width: auto; vertical-align: top;">
+              <div>The third row is for SEC internal use; please leave blank.</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="zbc7919cd5b874fc994e4b4ef54b97e27">
+
+          <tr>
+            <td style="width: 27pt; vertical-align: top;">(4)</td>
+            <td style="width: auto; vertical-align: top;">
+              <div><font style="font-style: italic;">Citizenship or Place of Organization</font>---Furnish citizenship if the named reporting person is a natural person. Otherwise, furnish place of organization.</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="zbdff45382a4a482784ad72aa8490591f">
+
+          <tr>
+            <td style="width: 27pt; vertical-align: top;">(5)</td>
+            <td style="width: auto; vertical-align: top;">
+              <div><font style="font-style: italic;">&#8211; (9), (11) Aggregated Amount Beneficially Owned By Each Reporting Person, etc</font>.---Rows (5) through (9) inclusive, and (11) are to be completed in accordance with the provisions of Item 4 of
+                Schedule 13G. All percentages are to be rounded off to the nearest tenth (one place after decimal point).</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="za14dc98bdd744d399eb4400c66d17ca5">
+
+          <tr>
+            <td style="width: 27pt; vertical-align: top;">(10)</td>
+            <td style="width: auto; vertical-align: top;">
+              <div>Check if the aggregate amount reported as beneficially owned in row 9 does not include shares as to which beneficial ownership is disclaimed pursuant to Rule 13d-4 under the Securities Exchange Act of 1934.</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; text-align: left; color: #000000;" class="DSPFListTable" id="z753205e2a1044659b84a7f77c0e625f0">
+
+          <tr>
+            <td style="width: 27pt; vertical-align: top;">(11)</td>
+            <td style="width: auto; vertical-align: top;">
+              <div>Type of Reporting Person---Please classify each &#8220;reporting person&#8221; according to the following breakdown (see Item 3 of Schedule 13G) and place the appropriate symbol on the form:</div>
+            </td>
+          </tr>
+
+      </table>
+      <div>&#160;</div>
+      <table cellspacing="0" cellpadding="0" border="0" align="center" style="border-collapse: collapse; width: 60%; color: #000000; font-family: 'Times New Roman'; font-size: 10pt; text-align: left;" id="zd40ec373e56240049989e07208f24849">
+
+          <tr>
+            <td style="width: 40%; vertical-align: top;">
+              <div>Category</div>
+            </td>
+            <td style="width: 20%; vertical-align: top;">
+              <div>Symbol</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 40%; vertical-align: top;">&#160;</td>
+            <td style="width: 20%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 40%; vertical-align: top;">
+              <div>Broker Dealer</div>
+            </td>
+            <td style="width: 20%; vertical-align: top;">
+              <div>BD</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 40%; vertical-align: top;">&#160;</td>
+            <td style="width: 20%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 40%; vertical-align: top;">
+              <div>Bank</div>
+            </td>
+            <td style="width: 20%; vertical-align: top;">
+              <div>BK</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 40%; vertical-align: top;">&#160;</td>
+            <td style="width: 20%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 40%; vertical-align: top;">
+              <div>Insurance Company</div>
+            </td>
+            <td style="width: 20%; vertical-align: top;">
+              <div>IC</div>
+            </td>
+          </tr>
+
+      </table>
+      <div><br>
+      </div>
+      <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" class="BRPFPageBreakArea">
+        <div style="page-break-after: always;" class="BRPFPageBreak">
+          <hr noshade="noshade" style="margin: 4px 0px; width: 100%; border-width: 0; height: 2px; color: #000000; background-color: #000000; clear: both;"></div>
+      </div>
+      <table cellspacing="0" cellpadding="0" align="center" style="font-family: 'Times New Roman'; font-size: 10pt; width: 60%; border-collapse: collapse; text-align: left; color: rgb(0, 0, 0);" id="zc01e45a1faa143d7902fc04616c544ed">
+
+          <tr>
+            <td style="width: 40%; vertical-align: top;">
+              <div>Investment Company</div>
+            </td>
+            <td style="width: 20%; vertical-align: top;">
+              <div>IV</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 40%; vertical-align: top;">&#160;</td>
+            <td style="width: 20%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 40%; vertical-align: top;">
+              <div>Investment Adviser</div>
+            </td>
+            <td style="width: 20%; vertical-align: top;">
+              <div>IA</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 40%; vertical-align: top;">&#160;</td>
+            <td style="width: 20%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 40%; vertical-align: top;">
+              <div>Employee Benefit Plan or Endowment Fund</div>
+            </td>
+            <td style="width: 20%; vertical-align: top;">
+              <div>EP</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 40%; vertical-align: top;">&#160;</td>
+            <td style="width: 20%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 40%; vertical-align: top;">
+              <div>Parent Holding Company/Control Person</div>
+            </td>
+            <td style="width: 20%; vertical-align: top;">
+              <div>HC</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 40%; vertical-align: top;">&#160;</td>
+            <td style="width: 20%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 40%; vertical-align: top;">
+              <div>Savings Association</div>
+            </td>
+            <td style="width: 20%; vertical-align: top;">
+              <div>SA</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 40%; vertical-align: top;">&#160;</td>
+            <td style="width: 20%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 40%; vertical-align: top;">
+              <div>Church Plan</div>
+            </td>
+            <td style="width: 20%; vertical-align: top;">
+              <div>CP</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 40%; vertical-align: top;">&#160;</td>
+            <td style="width: 20%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 40%; vertical-align: top;">
+              <div>Corporation</div>
+            </td>
+            <td style="width: 20%; vertical-align: top;">
+              <div>CO</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 40%; vertical-align: top;">&#160;</td>
+            <td style="width: 20%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 40%; vertical-align: top;">
+              <div>Partnership</div>
+            </td>
+            <td style="width: 20%; vertical-align: top;">
+              <div>PN</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 40%; vertical-align: top;">&#160;</td>
+            <td style="width: 20%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 40%; vertical-align: top;">
+              <div>Individual</div>
+            </td>
+            <td style="width: 20%; vertical-align: top;">
+              <div>IN</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 40%; vertical-align: top;">&#160;</td>
+            <td style="width: 20%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 40%; vertical-align: top;">
+              <div>Non-U.S. Institution</div>
+            </td>
+            <td style="width: 20%; vertical-align: top;">
+              <div>FI</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 40%; vertical-align: top;">&#160;</td>
+            <td style="width: 20%; vertical-align: top;">&#160;</td>
+          </tr>
+          <tr>
+            <td style="width: 40%; vertical-align: top;">
+              <div>Other</div>
+            </td>
+            <td style="width: 20%; vertical-align: top;">
+              <div>OO</div>
+            </td>
+          </tr>
+
+      </table>
+      <div style="font-weight: bold;">Notes:</div>
+      <div>&#160;</div>
+      <div>Attach as many copies of the second part of the cover page as are needed, one reporting person per page.</div>
+      <div>&#160;</div>
+      <div>Filing persons may, in order to avoid unnecessary duplication, answer items on the schedules (Schedule 13D, 13G, or TO) by appropriate cross references to an item or items on the cover page(s). This approach may only be used where the cover page
+        item or items provide all the disclosure required by the schedule item. Moreover, such a use of a cover page item will result in the item becoming a part of the schedule and accordingly being considered as &#8220;filed&#8221; for purposes of Section 18 of the
+        Securities Exchange Act or otherwise subject to the liabilities of that section of the Act.</div>
+      <div>&#160;</div>
+      <div>Reporting persons may comply with their cover page filing requirements by filing either completed copies of the blank forms available from the Commission, printed or typed facsimiles, or computer printed facsimiles, provided the documents filed
+        have identical formats to the forms prescribed in the Commission&#8217;s regulations and meet existing Securities Exchange Act rules as to such matters as clarity and size (Securities Exchange Act Rule 12-b12).</div>
+      <div>&#160;</div>
+      <div>&#160;
+        <hr noshade="noshade" align="center" style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;"></div>
+    </div>
+  </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

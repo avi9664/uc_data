@@ -1,0 +1,1098 @@
+<SEC-DOCUMENT>0001140361-21-022068.txt : 20210624
+<SEC-HEADER>0001140361-21-022068.hdr.sgml : 20210624
+<ACCEPTANCE-DATETIME>20210624090835
+ACCESSION NUMBER:		0001140361-21-022068
+CONFORMED SUBMISSION TYPE:	144
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20210623
+DATE AS OF CHANGE:		20210624
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Owl Rock Capital Corp
+		CENTRAL INDEX KEY:			0001655888
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		144
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	333-239775
+		FILM NUMBER:		211040928
+
+	BUSINESS ADDRESS:	
+		STREET 1:		399 PARK AVENUE
+		STREET 2:		38TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		(212) 419-3000
+
+	MAIL ADDRESS:	
+		STREET 1:		399 PARK AVENUE
+		STREET 2:		38TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+REPORTING-OWNER:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			REGENTS OF THE UNIVERSITY OF CALIFORNIA
+		CENTRAL INDEX KEY:			0000315054
+		RELATIONSHIP:				OWNER
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		144
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1111 BROADWAY
+		STREET 2:		21ST FLOOR
+		CITY:			OAKLAND
+		STATE:			CA
+		ZIP:			94607-4026
+		BUSINESS PHONE:		510-987-9600
+
+	MAIL ADDRESS:	
+		STREET 1:		1111 BROADWAY
+		STREET 2:		21ST FLOOR
+		CITY:			OAKLAND
+		STATE:			CA
+		ZIP:			94607-4026
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	REGENTS OF THE UNIVERSITY OF CA
+		DATE OF NAME CHANGE:	19600201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>144
+<SEQUENCE>1
+<FILENAME>brhc10026176_144.htm
+<DESCRIPTION>144
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Broadridge Financial Solutions, Inc.
+         Document created using EDGARfilings PROfile 7.5.0.0
+         Copyright 1995 - 2021 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman'; font-size: 10pt; text-align: left; color: #000000;">
+  <div>
+    <hr noshade="noshade" style="TEXT-ALIGN: center; BACKGROUND-COLOR: #000000; HEIGHT: 4px; COLOR: #000000; MARGIN-LEFT: auto; MARGIN-RIGHT: auto">
+    <div>&#160;</div>
+    <table cellspacing="0" cellpadding="2" style="width: 100%; font-family: 'Times New Roman'; font-size: 10pt;">
+
+        <tr>
+          <td valign="top" style="WIDTH: 86%" colspan="7">
+            <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; FONT-SIZE: 11pt; FONT-WEIGHT: bold;">UNITED STATES</div>
+          </td>
+          <td valign="top" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 14%; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid" colspan="3">
+            <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt;">OMB APPROVAL</div>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top" style="WIDTH: 86%" colspan="7">
+            <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; FONT-SIZE: 11pt; FONT-WEIGHT: bold;">SECURITIES AND EXCHANGE COMMISSION</div>
+          </td>
+          <td valign="top" align="left" style="BORDER-LEFT: black 2px solid; WIDTH: 6%">
+            <div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt;">OMB Number:</div>
+          </td>
+          <td valign="top" align="left" style="WIDTH: 8%; BORDER-RIGHT: black 2px solid" colspan="2">
+            <div style="TEXT-ALIGN: right; TEXT-INDENT: 0pt;">3235-0101</div>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top" style="WIDTH: 86%" colspan="7">
+            <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; FONT-SIZE: 11pt; FONT-WEIGHT: bold;">Washington, D.C. 20549</div>
+          </td>
+          <td valign="top" align="left" style="BORDER-LEFT: black 2px solid; WIDTH: 6%">
+            <div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt;">Expires:</div>
+          </td>
+          <td valign="top" align="left" style="WIDTH: 8%; BORDER-RIGHT: black 2px solid" colspan="2">
+            <div style="TEXT-ALIGN: right; TEXT-INDENT: 0pt;">
+              <div style="color: rgb(0, 0, 0);">June 30, 2020</div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top" style="WIDTH: 86%" colspan="7">&#160;</td>
+          <td valign="middle" align="left" style="BORDER-LEFT: black 2px solid; WIDTH: 14%; BORDER-RIGHT: black 2px solid" colspan="3">
+            <div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt;">Estimated average burden</div>
+          </td>
+        </tr>
+        <tr>
+          <td valign="bottom" style="WIDTH: 86%" colspan="7">
+            <div style="TEXT-ALIGN: center; LINE-HEIGHT: 1.25; TEXT-INDENT: 0pt; FONT-SIZE: 16pt; FONT-WEIGHT: bold;">FORM 144</div>
+          </td>
+          <td valign="top" align="left" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 10%; BORDER-RIGHT: medium none" colspan="2">hours per response</td>
+          <td valign="top" align="left" style="BORDER-BOTTOM: black 2px solid; WIDTH: 4%; BORDER-RIGHT: black 2px solid">
+            <div style="TEXT-ALIGN: right; TEXT-INDENT: 0pt;">1.00</div>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top" style="WIDTH: 86%" colspan="7">
+            <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold;">NOTICE OF PROPOSED SALE OF SECURITIES</div>
+          </td>
+          <td valign="top" bgcolor="white" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 14%; BORDER-RIGHT: black 2px solid" colspan="3">
+            <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; FONT-WEIGHT: bold;">SEC USE ONLY</div>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top" style="WIDTH: 86%" colspan="7">
+            <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; FONT-SIZE: 12pt; FONT-WEIGHT: bold;">PURSUANT TO RULE 144 UNDER THE SECURITIES ACT OF 1933</div>
+          </td>
+          <td valign="top" bgcolor="#DCDCDC" align="left" style="BORDER-LEFT: black 2px solid; WIDTH: 14%; BORDER-RIGHT: black 2px solid" colspan="3">
+            <div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt;">DOCUMENT SEQUENCE NO.</div>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top" style="WIDTH: 86%" colspan="7">&#160;</td>
+          <td valign="top" bgcolor="#DCDCDC" align="left" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 14%; BORDER-RIGHT: black 2px solid" colspan="3">&#160;</td>
+        </tr>
+        <tr>
+          <td valign="top" style="WIDTH: 86%" colspan="7">&#160;</td>
+          <td valign="top" bgcolor="#DCDCDC" align="left" style="BORDER-LEFT: black 2px solid; WIDTH: 14%; BORDER-RIGHT: black 2px solid" colspan="3">
+            <div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt;">CUSIP NUMBER</div>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top" align="left" style="BORDER-BOTTOM: black 2px solid; WIDTH: 86%" colspan="7">
+            <div style="TEXT-ALIGN: left; TEXT-INDENT: -63pt;MARGIN-LEFT: 63pt;"><font style="FONT-WEIGHT: bold; FONT-SIZE: 11pt;">ATTENTION: &#160;</font><i>Transmit for filing 3 copies of this form concurrently with either placing an order with a broker to
+                execute sale or executing a sale directly with a market maker.</i></div>
+            <div style="TEXT-ALIGN: left">&#160;</div>
+          </td>
+          <td valign="top" bgcolor="#DCDCDC" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 6%">&#160;</td>
+          <td valign="top" bgcolor="#DCDCDC" style="BORDER-BOTTOM: black 2px solid; WIDTH: 8%; BORDER-RIGHT: black 2px solid" colspan="2">&#160;</td>
+        </tr>
+        <tr>
+          <td valign="top" align="left" style="BORDER-LEFT: black 2px solid; WIDTH: 50%" colspan="4">
+            <div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt;">1 <i>(a)</i> NAME OF ISSUER <i>(Please type or print)</i></div>
+          </td>
+          <td valign="top" align="left" style="BORDER-LEFT: black 2px solid; WIDTH: 16%; BORDER-RIGHT: black 2px solid">
+            <div style="TEXT-ALIGN: left; TEXT-INDENT: -9pt; MARGIN-LEFT: 9pt;"><i>(b)</i> IRS IDENT. NO.</div>
+          </td>
+          <td valign="top" align="left" style="WIDTH: 20%" colspan="2">
+            <div style="TEXT-ALIGN: left; TEXT-INDENT: -9pt; MARGIN-LEFT: 9pt;"><i>(c)</i> S.E.C. FILE NO</div>
+          </td>
+          <td valign="top" bgcolor="#DCDCDC" style="BORDER-LEFT: black 2px solid; WIDTH: 14%; BORDER-RIGHT: black 2px solid" colspan="3">
+            <div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt;">WORK LOCATION</div>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top" align="left" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 50%; FONT-SIZE: 11pt" colspan="4">
+            <div style="text-align: left; font-size: 8pt;">OWL ROCK CAPITAL CORPORATION</div>
+          </td>
+          <td valign="top" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 16%; FONT-SIZE: 11pt; BORDER-RIGHT: black 2px solid">
+            <div style="text-align: left; font-size: 8pt;">47-5402460</div>
+          </td>
+          <td valign="top" style="BORDER-BOTTOM: black 2px solid; WIDTH: 20%; FONT-SIZE: 11pt" colspan="2">
+            <div style="text-align: left; font-size: 8pt;">814-01190</div>
+          </td>
+          <td valign="top" bgcolor="#DCDCDC" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 14%; BORDER-RIGHT: black 2px solid" colspan="3">&#160;</td>
+        </tr>
+        <tr>
+          <td valign="top" align="left" style="BORDER-LEFT: black 2px solid; WIDTH: 24%">
+            <div style="TEXT-ALIGN: left; TEXT-INDENT: -27pt;MARGIN-LEFT: 27pt;">1 <i>(d)</i> ADDRESS OF ISSUER</div>
+          </td>
+          <td valign="top" align="left" style="BORDER-LEFT: medium none; WIDTH: 12%; BORDER-RIGHT: medium none" colspan="3">&#160;STREET&#160;</td>
+          <td valign="top" align="left" style="BORDER-LEFT: medium none; WIDTH: 16%; BORDER-RIGHT: medium none">
+            <div style="text-align: center;">CITY</div>
+          </td>
+          <td valign="top" align="left" style="BORDER-LEFT: medium none; WIDTH: 9%">
+            <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt;">STATE</div>
+          </td>
+          <td valign="top" align="left" style="WIDTH: 11%">
+            <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt;">ZIP CODE</div>
+          </td>
+          <td valign="top" align="left" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 14%; BORDER-RIGHT: black 2px solid" colspan="3">
+            <div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt;"><i>(e)</i> TELEPHONE NO</div>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top" align="left" style="BORDER-LEFT: black 2px solid; WIDTH: 24%">&#160;</td>
+          <td valign="top" align="left" style="BORDER-LEFT: medium none; WIDTH: 12%; BORDER-RIGHT: medium none" colspan="3">&#160;</td>
+          <td valign="top" align="left" style="BORDER-LEFT: medium none; WIDTH: 16%; BORDER-RIGHT: medium none">
+            <div style="TEXT-ALIGN: center">&#160;</div>
+          </td>
+          <td valign="top" style="WIDTH: 9%"><br>
+          </td>
+          <td valign="top" style="WIDTH: 11%"><br>
+          </td>
+          <td valign="top" align="left" style="BORDER-LEFT: black 2px solid; WIDTH: 14%; BORDER-RIGHT: black 2px solid" colspan="3">
+            <div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; FONT-SIZE: 11pt;">&#160;</div>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top" align="left" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 86%" colspan="7">&#160;</td>
+          <td valign="top" align="left" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 14%; BORDER-RIGHT: black 2px solid" colspan="3">&#160;</td>
+        </tr>
+        <tr>
+          <td valign="top" style="BORDER-LEFT: black 2px solid; WIDTH: 30%; BORDER-RIGHT: black 2px solid" colspan="2">2 <i>(a)</i> NAME OF PERSON FOR WHOSE ACCOUNT THE SECURITIES ARE TO BE SOLD</td>
+          <td valign="top" align="left" style="BORDER-LEFT: medium none; WIDTH: 8%; BORDER-RIGHT: black 2px solid">&#160; </td>
+          <td valign="top" align="left" style="WIDTH: 12%; BORDER-RIGHT: black 2px solid">
+            <div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt;"><i>(b)</i> RELATIONSHIP TO ISSUER</div>
+          </td>
+          <td valign="top" align="left" style="WIDTH: 25%" colspan="2"><i>(c) </i>ADDRESS STREET&#160;</td>
+          <td valign="top" align="left" style="WIDTH: 11%">
+            <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt;">CITY</div>
+          </td>
+          <td valign="top" align="left" style="BORDER-LEFT: medium none; WIDTH: 6%">
+            <div style="TEXT-ALIGN: center; TEXT-INDENT: -18pt;MARGIN-LEFT: 18pt;">STATE</div>
+          </td>
+          <td valign="top" align="left" style="WIDTH: 8%; BORDER-RIGHT: black 2px solid" colspan="2">
+            <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt;">ZIP CODE</div>
+          </td>
+        </tr>
+        <tr>
+          <td valign="middle" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 30%; BORDER-RIGHT: black 2px solid" colspan="2">
+            <div style="text-align: left; font-size: 8pt;">REGENTS OF THE UNIVERSITY OF CALIFORNIA</div>
+          </td>
+          <td valign="top" align="left" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: medium none; WIDTH: 8%; BORDER-RIGHT: black 2px solid">&#160;</td>
+          <td valign="middle" align="left" style="BORDER-BOTTOM: black 2px solid; WIDTH: 12%; BORDER-RIGHT: black 2px solid">
+            <div style="TEXT-ALIGN: center; FONT-SIZE: 11pt">
+              <div style="text-align: left; font-size: 8pt;">10% STOCKHOLDER*&#160;</div>
+            </div>
+          </td>
+          <td valign="middle" align="left" style="BORDER-BOTTOM: black 2px solid; WIDTH: 25%; FONT-SIZE: 11pt" colspan="2">
+            <div style="text-align: left; font-size: 8pt;">1111 Franklin Street</div>
+          </td>
+          <td valign="middle" align="left" style="BORDER-BOTTOM: black 2px solid; WIDTH: 11%">
+            <div style="text-align: center; font-size: 8pt;">OAKLAND</div>
+          </td>
+          <td valign="middle" align="left" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: medium none; WIDTH: 6%">
+            <div style="TEXT-ALIGN: center; FONT-SIZE: 11pt">
+              <div style="font-size: 8pt;">CA&#160;</div>
+            </div>
+          </td>
+          <td valign="top" align="left" style="BORDER-BOTTOM: black 2px solid; WIDTH: 8%; BORDER-RIGHT: black 2px solid" colspan="2">
+            <div style="TEXT-ALIGN: center; FONT-SIZE: 11pt">
+              <div style="font-size: 8pt;">94607</div>
+            </div>
+          </td>
+        </tr>
+
+    </table>
+    <div style="TEXT-INDENT: 0pt;">&#160;</div>
+    <div id="DSPFPageBreakArea" style="clear: both; margin-top: 10pt; margin-bottom: 10pt;">
+      <div id="DSPFPageBreak" style="page-break-after: always;">
+        <hr noshade="noshade" style="width: 100%; border-width: 0px; clear: both; margin: 4px 0px; height: 2px; color: #000000; background-color: #000000;"></div>
+    </div>
+    <div style="text-align: center; font-style: italic; font-size: 11pt; text-indent: 0pt;">INSTRUCTION:&#160;&#160;The person filing this notice should contact the issuer to obtain the I.R.S. Identification Number and the S.E.C. File Number.</div>
+    <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt;">&#160;</div>
+    <div>
+      <table cellspacing="0" cellpadding="2" style="width: 100%; font-family: 'Times New Roman'; font-size: 10pt;">
+
+          <tr>
+            <td valign="top" align="left" style="BORDER-LEFT: black 2px solid; PADDING-BOTTOM: 2px; WIDTH: 11%; BORDER-TOP: black 2px solid">
+              <div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt;">3 <i>(a)</i></div>
+            </td>
+            <td valign="top" align="left" style="BORDER-LEFT: black 2px solid; PADDING-BOTTOM: 2px; WIDTH: 23%; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid">
+              <div style="TEXT-ALIGN: left; FONT-STYLE: italic; TEXT-INDENT: 0pt;">(b)</div>
+            </td>
+            <td valign="top" align="left" style="BORDER-BOTTOM: black 2px solid; WIDTH: 11%; BORDER-TOP: black 2px solid">
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt;">SEC USE ONLY</div>
+            </td>
+            <td valign="top" align="left" style="BORDER-LEFT: black 2px solid; PADDING-BOTTOM: 2px; WIDTH: 11%; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid">
+              <div style="TEXT-ALIGN: left; FONT-STYLE: italic; TEXT-INDENT: 0pt;">(c)</div>
+            </td>
+            <td valign="top" align="left" style="PADDING-BOTTOM: 2px; WIDTH: 11%; BORDER-TOP: black 2px solid">
+              <div style="TEXT-ALIGN: left; FONT-STYLE: italic; TEXT-INDENT: 0pt;">(d)</div>
+            </td>
+            <td valign="top" align="left" style="BORDER-LEFT: black 2px solid; PADDING-BOTTOM: 2px; WIDTH: 11%; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid">
+              <div style="TEXT-ALIGN: left; FONT-STYLE: italic; TEXT-INDENT: 0pt;">(e)</div>
+            </td>
+            <td valign="top" align="left" style="PADDING-BOTTOM: 2px; WIDTH: 11%; BORDER-TOP: black 2px solid">
+              <div style="TEXT-ALIGN: left; FONT-STYLE: italic; TEXT-INDENT: 0pt;">(f)</div>
+            </td>
+            <td valign="top" align="left" style="BORDER-LEFT: black 2px solid; PADDING-BOTTOM: 2px; WIDTH: 11%; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid">
+              <div style="TEXT-ALIGN: left; FONT-STYLE: italic; TEXT-INDENT: 0pt;">(g)</div>
+            </td>
+          </tr>
+          <tr>
+            <td valign="top" style="BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 11%">
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; FONT-WEIGHT: bold;">Title of the</div>
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; FONT-WEIGHT: bold;">Class of</div>
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; FONT-WEIGHT: bold;">Securities To Be Sold</div>
+            </td>
+            <td valign="top" style="BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 23%; BORDER-RIGHT: black 2px solid">
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; FONT-WEIGHT: bold;">Name and Address of Each Broker Through Whom the Securities are to be Offered or Each Market Maker&#160; who is Acquiring the Securities</div>
+            </td>
+            <td valign="top" bgcolor="#DCDCDC" style="BORDER-BOTTOM: #000000 2px solid; WIDTH: 11%">
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; FONT-WEIGHT: bold;">Broker-Dealer
+                <div style="font-weight: bold;">File Number</div>
+              </div>
+            </td>
+            <td valign="top" style="BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 11%; BORDER-RIGHT: black 2px solid">
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; FONT-WEIGHT: bold;">Number of Shares</div>
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; FONT-WEIGHT: bold;">or Other Units</div>
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; FONT-WEIGHT: bold;">To Be Sold</div>
+              <div style="TEXT-ALIGN: center; FONT-STYLE: italic; TEXT-INDENT: 0pt; FONT-WEIGHT: normal;">(See instr. 3(c))</div>
+            </td>
+            <td valign="top" style="BORDER-BOTTOM: #000000 2px solid; WIDTH: 11%">
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; FONT-WEIGHT: bold;">Aggregate</div>
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; FONT-WEIGHT: bold;">Market</div>
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; FONT-WEIGHT: bold;">Value</div>
+              <div style="TEXT-ALIGN: center; FONT-STYLE: italic; TEXT-INDENT: 0pt; FONT-WEIGHT: normal;">(See instr. 3(d))</div>
+            </td>
+            <td valign="top" align="left" style="BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 11%; BORDER-RIGHT: black 2px solid">
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; FONT-WEIGHT: bold;">Number of Shares</div>
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; FONT-WEIGHT: bold;">or Other Units</div>
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; FONT-WEIGHT: bold;">Outstanding</div>
+              <div style="TEXT-ALIGN: center; FONT-STYLE: italic; TEXT-INDENT: 0pt; FONT-WEIGHT: normal;">(See instr. 3(e))</div>
+            </td>
+            <td valign="top" align="left" style="BORDER-BOTTOM: #000000 2px solid; WIDTH: 11%">
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; FONT-WEIGHT: bold;">Approximate</div>
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; FONT-WEIGHT: bold;">Date of Sale</div>
+              <div style="TEXT-ALIGN: center; FONT-STYLE: italic; TEXT-INDENT: 0pt;"><font style="FONT-WEIGHT: normal">(See instr. 3(f))</font></div>
+              <div style="TEXT-ALIGN: center; FONT-STYLE: normal; TEXT-INDENT: 0pt; FONT-WEIGHT: normal;">(MO. &#160;DAY&#160; YR.)</div>
+            </td>
+            <td valign="top" style="BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 11%; BORDER-RIGHT: black 2px solid">
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; FONT-WEIGHT: bold;">Name of Each</div>
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; FONT-WEIGHT: bold;">Securities</div>
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; FONT-WEIGHT: bold;">Exchange</div>
+              <div style="TEXT-ALIGN: center; FONT-STYLE: italic; TEXT-INDENT: 0pt; FONT-WEIGHT: normal;">(See instr. 3(g))</div>
+            </td>
+          </tr>
+          <tr>
+            <td valign="middle" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 11%">
+              <div style="text-align: left; color: rgb(0, 0, 0); font-size: 8pt;">COMMON</div>
+              <div style="text-align: left; color: rgb(0, 0, 0); font-size: 8pt;">&#160;STOCK</div>
+            </td>
+            <td valign="top" align="left" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; PADDING-LEFT: 0pt; WIDTH: 23%; BORDER-RIGHT: black 2px solid">
+              <div style="TEXT-ALIGN: left; MARGIN-LEFT: 9pt; FONT-SIZE: 11pt">
+                <div style="font-size: 10pt;">State Street Global Markets LLC</div>
+                <div style="font-size: 10pt;">One Lincoln Street</div>
+                <div style="font-size: 10pt;">State Street Financial Center</div>
+                <div style="font-size: 10pt;">Boston, MA 02111-2900</div>
+              </div>
+            </td>
+            <td valign="top" bgcolor="#DCDCDC" style="BORDER-BOTTOM: black 2px solid; WIDTH: 11%">&#160;</td>
+            <td valign="middle" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 11%; BORDER-RIGHT: black 2px solid">
+              <div style="TEXT-ALIGN: center; FONT-SIZE: 11pt">
+                <div style="text-align: left; color: rgb(0, 0, 0); font-size: 8pt;">1,452,282</div>
+              </div>
+            </td>
+            <td valign="middle" style="BORDER-BOTTOM: black 2px solid; WIDTH: 11%">
+              <div style="TEXT-ALIGN: center; FONT-SIZE: 11pt">
+                <div style="text-align: left; color: rgb(0, 0, 0); font-size: 8pt;">$21,000,000 as of 6/22/2021 based on $14.46 closing price on NYSE</div>
+              </div>
+            </td>
+            <td valign="middle" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 11%; BORDER-RIGHT: black 2px solid">
+              <div style="text-align: center; font-size: 8pt;">391,401,787</div>
+            </td>
+            <td valign="middle" style="BORDER-BOTTOM: black 2px solid; WIDTH: 11%">
+              <div style="text-align: left; color: rgb(0, 0, 0); font-size: 8pt;">6/23/21**</div>
+            </td>
+            <td valign="middle" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 11%; BORDER-RIGHT: black 2px solid">
+              <div style="TEXT-ALIGN: center; FONT-SIZE: 11pt">
+                <div style="text-align: left; color: rgb(0, 0, 0); font-size: 8pt;">NEW YORK STOCK EXCHANGE***&#160;</div>
+              </div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div style="TEXT-INDENT: 0pt;">&#160;</div>
+    <div>
+      <table cellspacing="0" cellpadding="0" border="0" style="width: 100%; font-family: 'Times New Roman'; font-size: 10pt;">
+
+          <tr>
+            <td style="vertical-align: top;" colspan="3">
+              <div style="TEXT-ALIGN: left; FONT-WEIGHT: bold">INSTRUCTIONS:</div>
+            </td>
+            <td style="width: 5%; vertical-align: top;">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="WIDTH: 1.81%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="WIDTH: 2.5%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="width: 62%; vertical-align: top;">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 2%; vertical-align: top;">
+              <div style="TEXT-ALIGN: left;">1.</div>
+            </td>
+            <td style="WIDTH: 2.5%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">(a)</div>
+            </td>
+            <td style="WIDTH: 24.8%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">Name of issuer</div>
+            </td>
+            <td style="width: 5%; vertical-align: top;">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="WIDTH: 1.81%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">3.</div>
+            </td>
+            <td style="WIDTH: 2.5%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">(a)</div>
+            </td>
+            <td style="width: 62%; vertical-align: top;">
+              <div style="TEXT-ALIGN: left;">Title of the class of securities to be sold</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 2%; vertical-align: top;">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="WIDTH: 2.5%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">(b)</div>
+            </td>
+            <td style="WIDTH: 24.8%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">Issuer's I.R.S. Identification Number</div>
+            </td>
+            <td style="width: 5%; vertical-align: top;">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="WIDTH: 1.81%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="WIDTH: 2.5%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">(b)</div>
+            </td>
+            <td style="width: 62%; vertical-align: top;">
+              <div style="TEXT-ALIGN: left;">Name and address of each broker through whom the securities are intended to be sold</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 2%; vertical-align: top;">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="WIDTH: 2.5%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">(c)</div>
+            </td>
+            <td style="WIDTH: 24.8%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">Issuer's S.E.C. file number, if any</div>
+            </td>
+            <td style="width: 5%; vertical-align: top;">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="WIDTH: 1.81%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="WIDTH: 2.5%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">(c)</div>
+            </td>
+            <td style="width: 62%; vertical-align: top;">
+              <div style="TEXT-ALIGN: left;">Number of shares or other units to be sold (if debt securities, give the aggregate face amount)</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 2%; vertical-align: top;">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="WIDTH: 2.5%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">(d)</div>
+            </td>
+            <td style="WIDTH: 24.8%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">Issuer's address, including zip code</div>
+            </td>
+            <td style="width: 5%; vertical-align: top;">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="WIDTH: 1.81%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="WIDTH: 2.5%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">(d)</div>
+            </td>
+            <td style="width: 62%; vertical-align: top;">
+              <div style="TEXT-ALIGN: left;">Aggregate market value of the securities to be sold as of a specified date within 10 days prior to filing of this notice</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 2%; vertical-align: top;">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="WIDTH: 2.5%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">(e)</div>
+            </td>
+            <td style="WIDTH: 24.8%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">Issuer's telephone number, including area code</div>
+            </td>
+            <td style="width: 5%; vertical-align: top;">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="WIDTH: 1.81%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="WIDTH: 2.5%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">(e)</div>
+            </td>
+            <td style="width: 62%; vertical-align: top;">
+              <div style="TEXT-ALIGN: left;">Number of shares or other units of the class outstanding, or if debt securities the face amount thereof outstanding, as shown by the most recent report or statement published by the issuer</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 2%; vertical-align: top;">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="WIDTH: 2.5%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="WIDTH: 24.8%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="width: 5%; vertical-align: top;">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="WIDTH: 1.81%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="WIDTH: 2.5%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">(f)</div>
+            </td>
+            <td style="width: 62%; vertical-align: top;">
+              <div style="TEXT-ALIGN: left;">Approximate date on which the securities are to be sold</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 2%; vertical-align: top;">
+              <div style="TEXT-ALIGN: left;">2.</div>
+            </td>
+            <td style="WIDTH: 2.5%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">(a)</div>
+            </td>
+            <td style="WIDTH: 24.8%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">Name of person for whose account the securities are to be sold</div>
+            </td>
+            <td style="width: 5%; vertical-align: top;">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="WIDTH: 1.81%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="WIDTH: 2.5%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">(g)</div>
+            </td>
+            <td style="width: 62%; vertical-align: top;">
+              <div style="TEXT-ALIGN: left;">Name of each securities exchange, if any, on which the securities are intended to be sold</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 2%; vertical-align: top;">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="WIDTH: 2.5%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">(b)</div>
+            </td>
+            <td style="WIDTH: 24.8%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">Such person's relationship to the issuer (e.g., officer, director, 10% stockholder, or member of immediate family of any of the foregoing)</div>
+            </td>
+            <td style="width: 5%; vertical-align: top;">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="WIDTH: 1.81%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="WIDTH: 2.5%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="width: 62%; vertical-align: top;">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td style="width: 2%; vertical-align: top;">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="WIDTH: 2.5%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">(c)</div>
+            </td>
+            <td style="WIDTH: 24.8%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">Such person's address, including zip code</div>
+            </td>
+            <td style="width: 5%; vertical-align: top;">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="WIDTH: 1.81%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="WIDTH: 2.5%; VERTICAL-ALIGN: top">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+            <td style="width: 62%; vertical-align: top;">
+              <div style="TEXT-ALIGN: left;">&#160;</div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div>
+      <table cellspacing="0" cellpadding="0" style="width: 100%; font-family: 'Times New Roman'; font-size: 10pt;">
+
+          <tr>
+            <td valign="top" style="WIDTH: 10%">&#160;</td>
+            <td valign="top" style="WIDTH: 80%">
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; FONT-WEIGHT: bold;">Potential persons who are to respond to the collection of information contained in this form are not&#160;required to respond unless the form displays a currently valid OMB
+                control number.</div>
+            </td>
+            <td valign="top" style="WIDTH: 10%">
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt;">SEC 1147 (08-07)</div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div style="TEXT-INDENT: 0pt;">&#160;</div>
+    <div id="DSPFPageBreakArea" style="clear: both; margin-top: 10pt; margin-bottom: 10pt;">
+      <div id="DSPFPageBreak" style="page-break-after: always;">
+        <hr noshade="noshade" style="width: 100%; border-width: 0px; clear: both; margin: 4px 0px; height: 2px; color: #000000; background-color: #000000;"></div>
+    </div>
+    <div style="text-align: center; text-indent: 0pt; font-size: 14pt; font-weight: bold;" id="PGBRK">TABLE I &#8212; SECURITIES TO BE SOLD</div>
+    <div style="text-align: center; font-style: italic; text-indent: 0pt;">&#160;</div>
+    <div style="text-align: center; font-style: italic; text-indent: 0pt;">Furnish the following information with respect to the acquisition of the securities to be sold</div>
+    <div style="text-align: center; font-style: italic; text-indent: 0pt;">and with respect to the payment of all or any part of the purchase price or other consideration therefor:</div>
+    <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt;">&#160;</div>
+    <div>
+      <table cellspacing="0" cellpadding="2" style="width: 100%; font-family: 'Times New Roman'; font-size: 10pt;">
+
+          <tr>
+            <td valign="bottom" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 12%; BORDER-TOP: black 2px solid">
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt;">Title of</div>
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt;">the Class</div>
+            </td>
+            <td valign="bottom" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 12%; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid">
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt;">Date you</div>
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt;">Acquired</div>
+            </td>
+            <td valign="bottom" style="BORDER-BOTTOM: black 2px solid; WIDTH: 22%; BORDER-TOP: black 2px solid">
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt;">Nature of Acquisition Transaction</div>
+            </td>
+            <td valign="bottom" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 22%; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid">
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt;">Name of Person from Whom Acquired</div>
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt;">(<i>If gift, also give date donor acquired</i>)</div>
+            </td>
+            <td valign="bottom" style="BORDER-BOTTOM: black 2px solid; WIDTH: 12%; BORDER-TOP: black 2px solid">
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt;">Amount of</div>
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt;">Securities Acquired</div>
+            </td>
+            <td valign="bottom" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 8%; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid">
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt;">Date of</div>
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt;">Payment</div>
+            </td>
+            <td valign="bottom" style="BORDER-BOTTOM: black 2px solid; WIDTH: 12%; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid">
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt;">Nature of Payment</div>
+            </td>
+          </tr>
+          <tr>
+            <td valign="middle" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 12%">
+              <div style="TEXT-ALIGN: center; FONT-SIZE: 11pt">
+                <div style="text-align: left; color: rgb(0, 0, 0); font-size: 8pt;">COMMON STOCK</div>
+              </div>
+            </td>
+            <td valign="middle" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 12%; BORDER-RIGHT: black 2px solid">
+              <div style="TEXT-ALIGN: center; FONT-SIZE: 11pt">
+                <div style="text-align: left; color: rgb(0, 0, 0); font-size: 8pt;">6/17/19</div>
+              </div>
+            </td>
+            <td valign="middle" style="BORDER-BOTTOM: black 2px solid; WIDTH: 22%">
+              <div style="TEXT-ALIGN: center; FONT-SIZE: 11pt">
+                <div style="text-align: left; color: rgb(0, 0, 0); font-size: 8pt;">PRIVATE PLACEMENT (CAPITAL CALL)&#160;</div>
+              </div>
+            </td>
+            <td valign="middle" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 22%; BORDER-RIGHT: black 2px solid">
+              <div style="TEXT-ALIGN: center; FONT-SIZE: 11pt">
+                <div style="text-align: left; color: rgb(0, 0, 0); font-size: 8pt;">OWL ROCK CAPITAL CORPORATION&#160;</div>
+              </div>
+            </td>
+            <td valign="middle" style="BORDER-BOTTOM: black 2px solid; WIDTH: 12%">
+              <div style="TEXT-ALIGN: center; FONT-SIZE: 11pt">
+                <div style="text-align: left; color: rgb(0, 0, 0); font-size: 8pt;">&#160;9,463,962</div>
+              </div>
+            </td>
+            <td valign="middle" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 8%; BORDER-RIGHT: black 2px solid">
+              <div style="TEXT-ALIGN: center; FONT-SIZE: 11pt">
+                <div style="text-align: left; color: rgb(0, 0, 0); font-size: 8pt;">6/17/19</div>
+              </div>
+            </td>
+            <td valign="middle" style="BORDER-BOTTOM: black 2px solid; WIDTH: 12%; BORDER-RIGHT: black 2px solid">
+              <div style="TEXT-ALIGN: center; FONT-SIZE: 11pt">
+                <div style="text-align: left; color: rgb(0, 0, 0); font-size: 8pt;">CASH</div>
+              </div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div style="TEXT-INDENT: 0pt;"><br>
+      <br>
+    </div>
+    <div>
+      <table cellspacing="0" cellpadding="0" style="width: 100%; font-family: 'Times New Roman'; font-size: 10pt;">
+
+          <tr>
+            <td valign="top" align="left" style="WIDTH: 6%">
+              <div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; FONT-SIZE: 11pt; FONT-WEIGHT: bold;">INSTRUCTIONS:</div>
+            </td>
+            <td valign="top" style="WIDTH: 2%">&#160;</td>
+            <td valign="top" style="WIDTH: 48%">
+              <div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt;">If the securities were purchased and full payment therefor was not made in cash at the time of purchase, explain in the table or in a note thereto the nature of the consideration given. If
+                the consideration consisted of any note or other obligation, or if payment was made in installments describe the arrangement and state when the note or other obligation was discharged in full or the last installment paid.</div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div style="TEXT-INDENT: 0pt;"><br>
+      &#160;</div>
+    <div id="DSPFPageBreakArea" style="clear: both; margin-top: 10pt; margin-bottom: 10pt;">
+      <div id="DSPFPageBreak" style="page-break-after: always;">
+        <hr noshade="noshade" style="width: 100%; border-width: 0px; clear: both; margin: 4px 0px; height: 2px; color: #000000; background-color: #000000;"></div>
+    </div>
+    <div style="text-align: center; text-indent: 0pt; font-size: 14pt; font-weight: bold;">TABLE II &#8212; SECURITIES SOLD DURING THE PAST 3 MONTHS</div>
+    <div style="text-align: center; font-style: italic; text-indent: 0pt;">&#160;</div>
+    <div style="text-align: center; font-style: italic; text-indent: 0pt;">Furnish the following information as to all securities of the issuer sold during the past 3 months by the person for whose account the securities are to be sold.</div>
+    <div style="TEXT-INDENT: 0pt;"><br>
+    </div>
+    <div>
+      <table cellspacing="0" cellpadding="2" style="width: 100%; font-family: 'Times New Roman'; font-size: 10pt;">
+
+          <tr>
+            <td valign="bottom" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 35%; BORDER-TOP: black 2px solid">
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt;">Name and Address of Seller</div>
+            </td>
+            <td valign="bottom" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 25%; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid">
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt;">Title of Securities Sold</div>
+            </td>
+            <td valign="bottom" style="BORDER-BOTTOM: black 2px solid; WIDTH: 10%; BORDER-TOP: black 2px solid">
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt;">Date of Sale</div>
+            </td>
+            <td valign="top" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 13%; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid">
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt;">Amount of</div>
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt;">Securities Sold</div>
+            </td>
+            <td valign="bottom" style="BORDER-BOTTOM: black 2px solid; WIDTH: 17%; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid">
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt;">Gross Proceeds</div>
+            </td>
+          </tr>
+          <tr>
+            <td valign="top" align="left" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; PADDING-LEFT: 0pt; WIDTH: 26%">
+              <div style="TEXT-ALIGN: left; MARGIN-LEFT: 9pt; FONT-SIZE: 11pt">
+                <div style="font-size: 10pt;">Regents of the University of California</div>
+                <div style="font-size: 10pt;">1111 Franklin Street, Floor 8th</div>
+                <div style="font-size: 10pt;">Oakland, CA 94607</div>
+              </div>
+            </td>
+            <td valign="middle" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: center; BORDER-LEFT: black 2px solid; WIDTH: 25%; BORDER-RIGHT: black 2px solid">
+              <div style=" FONT-SIZE: 11pt">
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+                <div style="text-align: left; font-size: 8pt;">Common Stock</div>
+              </div>
+            </td>
+            <td valign="middle" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: center; WIDTH: 10%; FONT-SIZE: 11pt">
+              <div style="text-align: left; font-size: 8pt;">4/7/2021</div>
+              <div style="text-align: left; font-size: 8pt;">4/8/2021</div>
+              <div style="text-align: left; font-size: 8pt;">4/9/2021</div>
+              <div style="text-align: left; font-size: 8pt;">4/12/2021</div>
+              <div style="text-align: left; font-size: 8pt;">4/13/2021</div>
+              <div style="text-align: left; font-size: 8pt;">4/14/2021</div>
+              <div style="text-align: left; font-size: 8pt;">4/15/2021</div>
+              <div style="text-align: left; font-size: 8pt;">4/16/2021</div>
+              <div style="text-align: left; font-size: 8pt;">4/19/2021</div>
+              <div style="text-align: left; font-size: 8pt;">4/20/2021</div>
+              <div style="text-align: left; font-size: 8pt;">4/21/2021</div>
+              <div style="text-align: left; font-size: 8pt;">4/22/2021</div>
+              <div style="text-align: left; font-size: 8pt;">4/23/2021</div>
+              <div style="text-align: left; font-size: 8pt;">4/26/2021</div>
+              <div style="text-align: left; font-size: 8pt;">4/27/2021</div>
+              <div style="text-align: left; font-size: 8pt;">5/6/2021</div>
+              <div style="text-align: left; font-size: 8pt;">5/7/2021</div>
+              <div style="text-align: left; font-size: 8pt;">5/10/2021</div>
+              <div style="text-align: left; font-size: 8pt;">5/14/2021</div>
+              <div style="text-align: left; font-size: 8pt;">5/17/2021</div>
+              <div style="text-align: left; font-size: 8pt;">5/18/2021</div>
+              <div style="text-align: left; font-size: 8pt;">5/19/2021</div>
+              <div style="text-align: left; font-size: 8pt;">5/20/2021</div>
+              <div style="text-align: left; font-size: 8pt;">5/21/2021</div>
+              <div style="text-align: left; font-size: 8pt;">5/24/2021</div>
+              <div style="text-align: left; font-size: 8pt;">5/25/2021</div>
+              <div style="text-align: left; font-size: 8pt;">5/26/2021</div>
+              <div style="text-align: left; font-size: 8pt;">5/27/2021</div>
+              <div style="text-align: left; font-size: 8pt;">5/28/2021</div>
+              <div style="text-align: left; font-size: 8pt;">6/1/2021</div>
+              <div style="text-align: left; font-size: 8pt;">6/2/2021</div>
+              <div style="text-align: left; font-size: 8pt;">6/3/2021</div>
+              <div style="text-align: left; font-size: 8pt;">6/7/2021</div>
+              <div style="text-align: left; font-size: 8pt;">6/8/2021</div>
+              <div style="text-align: left; font-size: 8pt;">6/9/2021</div>
+              <div style="text-align: left; font-size: 8pt;">6/10/2021</div>
+              <div style="text-align: left; font-size: 8pt;">6/11/2021</div>
+              <div style="text-align: left; font-size: 8pt;">6/14/2021</div>
+              <div style="text-align: left; font-size: 8pt;">6/15/2021</div>
+              <div style="text-align: left; font-size: 8pt;">6/16/2021</div>
+              <div style="text-align: left; font-size: 8pt;">6/17/2021</div>
+              <div style="text-align: left; font-size: 8pt;">6/18/2021</div>
+              <div style="text-align: left; font-size: 8pt;">6/21/2021</div>
+              <div style="text-align: left; font-size: 8pt;">6/22/2021</div>
+            </td>
+            <td valign="middle" style="border-bottom: 2px solid black; text-align: center; border-left: 2px solid black; width: 13%; font-size: 8pt; border-right: 2px solid black;">
+              <div style="text-align: left;">101,700</div>
+              <div style="text-align: left;">71,379</div>
+              <div style="text-align: left;">36,299</div>
+              <div style="text-align: left;">80,210</div>
+              <div style="text-align: left;">42,634</div>
+              <div style="text-align: left;">25,844</div>
+              <div style="text-align: left;">195,740</div>
+              <div style="text-align: left;">167,332</div>
+              <div style="text-align: left;">114,500</div>
+              <div style="text-align: left;">113,422</div>
+              <div style="text-align: left;">82,878</div>
+              <div style="text-align: left;">123,729</div>
+              <div style="text-align: left;">230,000</div>
+              <div style="text-align: left;">265,000</div>
+              <div style="text-align: left;">104,951</div>
+              <div style="text-align: left;">23,900</div>
+              <div style="text-align: left;">63,242</div>
+              <div style="text-align: left;">43,530</div>
+              <div style="text-align: left;">50,000</div>
+              <div style="text-align: left;">36,000</div>
+              <div style="text-align: left;">70,000</div>
+              <div style="text-align: left;">70,840</div>
+              <div style="text-align: left;">80,000</div>
+              <div style="text-align: left;">60,000</div>
+              <div style="text-align: left;">125,000</div>
+              <div style="text-align: left;">45,186</div>
+              <div style="text-align: left;">50,000</div>
+              <div style="text-align: left;">71,000</div>
+              <div style="text-align: left;">71,873</div>
+              <div style="text-align: left;">78,413</div>
+              <div style="text-align: left;">70,000</div>
+              <div style="text-align: left;">32,683</div>
+              <div style="text-align: left;">47,050</div>
+              <div style="text-align: left;">118,679</div>
+              <div style="text-align: left;">102,619</div>
+              <div style="text-align: left;">61,981</div>
+              <div style="text-align: left;">93,286</div>
+              <div style="text-align: left;">96,669</div>
+              <div style="text-align: left;">109,744</div>
+              <div style="text-align: left;">124,437</div>
+              <div style="text-align: left;">65,187</div>
+              <div style="text-align: left;">52,000</div>
+              <div style="text-align: left;">123,000</div>
+              <div style="text-align: left;">34,155</div>
+            </td>
+            <td valign="middle" style="border-bottom: 2px solid black; text-align: center; width: 17%; font-size: 8pt; border-right: 2px solid black;">
+              <div style="text-align: left;">$1,454,473</div>
+              <div style="text-align: left;">$1,002,354</div>
+              <div style="text-align: left;">$510,201</div>
+              <div style="text-align: left;">$1,138,276</div>
+              <div style="text-align: left;">$602,231</div>
+              <div style="text-align: left;">$366,522</div>
+              <div style="text-align: left;">$2,802,742</div>
+              <div style="text-align: left;">$2,396,646</div>
+              <div style="text-align: left;">$1,639,354</div>
+              <div style="text-align: left;">$1,615,504</div>
+              <div style="text-align: left;">$1,183,523</div>
+              <div style="text-align: left;">$1,765,341</div>
+              <div style="text-align: left;">$3,296,153</div>
+              <div style="text-align: left;">$3,836,750</div>
+              <div style="text-align: left;">$1,514,600</div>
+              <div style="text-align: left;">$337,693</div>
+              <div style="text-align: left;">$895,001</div>
+              <div style="text-align: left;">$613,851</div>
+              <div style="text-align: left;">$709,185</div>
+              <div style="text-align: left;">$510,278</div>
+              <div style="text-align: left;">$998,893</div>
+              <div style="text-align: left;">$1,008,025</div>
+              <div style="text-align: left;">$1,148,944</div>
+              <div style="text-align: left;">$862,914</div>
+              <div style="text-align: left;">$1,800,075</div>
+              <div style="text-align: left;">$649,404</div>
+              <div style="text-align: left;">$715,950</div>
+              <div style="text-align: left;">$1,020,909</div>
+              <div style="text-align: left;">$1,034,813</div>
+              <div style="text-align: left;">$1,138,094</div>
+              <div style="text-align: left;">$1,016,813</div>
+              <div style="text-align: left;">$476,910</div>
+              <div style="text-align: left;">$690,718</div>
+              <div style="text-align: left;">$1,744,807</div>
+              <div style="text-align: left;">$1,512,460</div>
+              <div style="text-align: left;">$910,377</div>
+              <div style="text-align: left;">$1,377,051</div>
+              <div style="text-align: left;">$1,432,712</div>
+              <div style="text-align: left;">$1,625,232</div>
+              <div style="text-align: left;">$1,856,028</div>
+              <div style="text-align: left;">$959,970</div>
+              <div style="text-align: left;">$749,783</div>
+              <div style="text-align: left;">$1,783,193</div>
+              <div style="text-align: left;">$493,116</div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <h3>EXPLANATION OF RESPONSES:</h3>
+    <h3>REMARKS:</h3>
+    <div style="text-indent: 0pt;">
+      <div>* As of 6/16/2021, The Regents of the University of California is no longer a holder of 10% or more of the ORCC shares.</div>
+      <div>&#160;</div>
+      <div>**Sales anticipated to occur over a number of days from the placement of the order, which is expected to be 6/23/2021 as listed in section 3(f).</div>
+      <div>&#160;</div>
+      <div>***Securities are listed on NYSE but may be sold in any market center on which securities may be lawfully sold.</div>
+    </div>
+    <div style="text-indent: 0pt;">&#160;</div>
+    <div style="clear: both; margin-top: 10pt; margin-bottom: 10pt;" id="DSPFPageBreakArea">
+      <div style="page-break-after: always;" id="DSPFPageBreak">
+        <hr noshade="noshade" style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;"></div>
+    </div>
+    <div>
+      <table cellspacing="0" cellpadding="0" style="width: 100%; font-family: 'Times New Roman'; font-size: 10pt;">
+
+          <tr>
+            <td valign="top" align="left" style="WIDTH: 49%">
+              <div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; FONT-SIZE: 11pt; FONT-WEIGHT: bold;">INSTRUCTIONS:</div>
+            </td>
+            <td valign="top" style="WIDTH: 2%">&#160;</td>
+            <td valign="top" align="left" style="WIDTH: 49%">
+              <div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; FONT-SIZE: 11pt; FONT-WEIGHT: bold;">ATTENTION:</div>
+            </td>
+          </tr>
+          <tr>
+            <td valign="top" style="WIDTH: 49%">
+              <div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt;">See the definition of &#8220;person&#8221; in paragraph (a) of Rule 144. Information is to be given not only as to the person for whose account the securities are to be sold but also as to all other
+                persons included in that definition. In addition, information shall be given as to sales by all persons whose sales are required by paragraph (e) of Rule 144 to be aggregated with sales for the account of the person filing this notice.</div>
+            </td>
+            <td valign="top" style="WIDTH: 2%">&#160;</td>
+            <td valign="top" style="WIDTH: 49%">
+              <div style="TEXT-ALIGN: justify; FONT-STYLE: italic; TEXT-INDENT: 0pt;">The person for whose account the securities to which this notice relates are to be sold hereby represents by signing this notice that he does not know any material
+                adverse information in regard to the current and prospective operations of the Issuer of the securities to be sold which has not been publicly disclosed. If such person has adopted a written trading plan or given trading instructions to
+                satisfy Rule 10b5-1 under the Exchange Act, by signing the form and indicating the date that the plan was adopted or the instruction given, that person makes such representation as of the plan adoption or instruction date.</div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div style="TEXT-INDENT: 0pt;"><br>
+      <div><br>
+      </div>
+      <br>
+    </div>
+    <div>
+      <table cellspacing="0" cellpadding="0" style="width: 100%; font-family: 'Times New Roman'; font-size: 10pt;">
+
+          <tr>
+            <td valign="top" style="WIDTH: 5%">&#160;</td>
+            <td valign="top" style="BORDER-BOTTOM: black 2px solid; WIDTH: 40%">
+              <div style="text-align: center; color: rgb(0, 0, 0); font-size: 8pt;">6/22/2021</div>
+            </td>
+            <td valign="top" style="WIDTH: 5%">&#160;</td>
+            <td valign="top" style="WIDTH: 5%">&#160;</td>
+            <td valign="top" style="border-bottom: 2px solid black; width: 40%; text-align: center;"><font style="color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-transform: none; white-space: normal; word-spacing: 0px; text-decoration-style: initial; text-decoration-color: initial; font-size: 13.3333px; background-color: rgb(255, 255, 255); float: none; display: inline ! important;">/s/ Arthur
+                R. Guimaraes</font><font style="color: rgb(0, 0, 0); font-size: 13.3333px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline ! important; float: none;"> <br>
+              </font></td>
+            <td valign="top" style="WIDTH: 5%">&#160;</td>
+          </tr>
+          <tr>
+            <td valign="top" style="WIDTH: 5%">&#160;</td>
+            <td valign="top" style="WIDTH: 40%">
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; FONT-WEIGHT: normal;">DATE OF NOTICE</div>
+            </td>
+            <td valign="top" style="WIDTH: 5%">&#160;</td>
+            <td valign="top" style="WIDTH: 5%">&#160;</td>
+            <td valign="top" style="width: 22.5%;">
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt;">(SIGNATURE)</div>
+            </td>
+            <td valign="top" style="width: 22.5%;">&#160;</td>
+          </tr>
+          <tr>
+            <td valign="top" style="WIDTH: 5%">&#160;</td>
+            <td valign="top" style="BORDER-BOTTOM: black 2px solid; WIDTH: 40%">
+              <div style="text-align: left; color: rgb(0, 0, 0); font-size: 8pt;"><br>
+              </div>
+            </td>
+            <td valign="top" style="WIDTH: 5%">&#160;</td>
+            <td valign="top" style="WIDTH: 5%">&#160;</td>
+            <td valign="top" style="WIDTH: 45%" colspan="2">&#160;</td>
+          </tr>
+          <tr>
+            <td valign="top" style="WIDTH: 5%">&#160;</td>
+            <td valign="top" style="WIDTH: 40%">
+              <div style="TEXT-ALIGN: center; TEXT-INDENT: 0pt; FONT-WEIGHT: normal;">DATE OF PLAN ADOPTION OR GIVING OF INSTRUCTION, IF RELYING ON RULE 10B5-1</div>
+            </td>
+            <td valign="top" style="WIDTH: 5%">&#160;</td>
+            <td valign="top" style="WIDTH: 50%" colspan="3">
+              <div style="TEXT-ALIGN: center; FONT-STYLE: italic; TEXT-INDENT: 0pt;">The notice shall be signed by the person for whose account the securities are to be sold. At least one copy of the notice shall be manually signed. Any copies not manually
+                signed shall bear typed or printed signatures.</div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div style="TEXT-INDENT: 0pt;"><br>
+    </div>
+    <div style="TEXT-INDENT: 0pt;"><br>
+    </div>
+    <div>
+      <table cellspacing="0" cellpadding="2" style="width: 100%; font-family: 'Times New Roman'; font-size: 10pt;">
+
+          <tr>
+            <td valign="top" align="left" style="BORDER-BOTTOM: black 2px solid; BORDER-LEFT: black 2px solid; WIDTH: 5%; BORDER-TOP: black 2px solid; BORDER-RIGHT: black 2px solid">
+              <div style="text-align: center; font-weight: bold;">ATTENTION:<font style="LETTER-SPACING: 9pt" id="TAB2">&#160;&#160;</font>Intentional misstatements or omission of facts constitute Federal Criminal Violations (See 18 U.S.C. 1001)</div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div style="text-indent: 0pt;">&#160;</div>
+    <div style="text-align: right; text-indent: 0pt;">SEC 1147 (02-08)</div>
+    <div style="TEXT-ALIGN: right; TEXT-INDENT: 0pt;">&#160;</div>
+    <hr noshade="noshade" style="TEXT-ALIGN: center; BACKGROUND-COLOR: #000000; HEIGHT: 2px; COLOR: #000000; MARGIN-LEFT: auto; MARGIN-RIGHT: auto"> </div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
